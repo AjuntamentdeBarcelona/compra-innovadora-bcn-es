@@ -27,7 +27,10 @@ Tenemos que verificar en qué grado satisfacemos finalmente nuestras necesidades
 ====
 
 Cada compra tendrá que ser analizada caso por caso.
-¿Qué necesidad tenemos que cubrir? ¿Existe ya la solución en el mercado o hay que inventarla? ¿Qué pasaría si, existiendo, todavía no estuviera comercializada...? ¿Nuestro proveedor se puede convertir en nuestro socio?
+¿Qué necesidad tenemos que cubrir?
+¿Existe ya la solución en el mercado o hay que inventarla?
+¿Qué pasaría si, existiendo, todavía no estuviera comercializada...?
+¿Nuestro proveedor se puede convertir en nuestro socio?
 
 Por eso tenemos que estructurar nuestras compras en cuatro pilares.
 
@@ -98,89 +101,91 @@ Los pasos esenciales a seguir son los siguientes:
 * Escoger el mejor formato para la consulta y preparar los recursos materiales y humanos necesarios.
 * Desarrollar la consulta conservando un archivo del desarrollo y asegurando la igualdad de trato.
 
-*ASSESSMENT OF SUSTAINABILITY AND INNOVATION IN THE RESULTS OF THE MARKET CONSULTATION*
+*Evaluación de la sostenibilidad y la innovación en los resultados de la consulta en el mercado*
 
-The City Council is developing a support methodology to facilitate the assessment of the ideas and solutions that we get from market consultations.
-The methodology used applies to any idea or solution and will allow us to prioritise them according to the degree of innovation and sustainability they contribute.
+El Ayuntamiento está elaborando una metodología de apoyo para facilitar la evaluación de las ideas y las soluciones que nos lleguen de la consulta al mercado.
+La metodología que se utiliza es general para cualquier idea o solución y permitirá priorizarlas según el grado de innovación y sostenibilidad que aporten.
 
-The method has two phases: first, the innovation that the idea itself contributes is assessed, keeping in mind the circumstances of the environment, the proposing entity, and how well the idea aligns with the goals of Barcelona City Council.
+El método tiene dos fases: en una primera, se evalúa la innovación que aporta la idea en sí misma y atendiendo a las circunstancias del entorno, de la entidad proponente y la alineación que la idea tiene con los objetivos del Ayuntamiento de Barcelona.
 
-The second phase analyses the sustainability of the idea based on an analysis of how realistic, viable and beneficial its implementation is.
+En una segunda fase hay que analizar la sostenibilidad de la idea a partir de analizar cómo es de real, viable y social su implementación.
 
-.SPEA EINDHOVEN Case - The key word is “collaboration”
-TIP: Eindhoven City Council made a commitment to sustainable construction with a more comprehensive, holistic approach, an approach which makes it logical for the different parties involved to make an effort to achieve long-term quality and to satisfy the needs of all parties.
-Furthermore, investments in innovation and quality require a longer term to obtain a sufficient return on the investment thanks to economies of scale and cooperation.
-The duration of the project, therefore, extends to 2045.
-The “Natural Step” methodology is being applied to improve the sustainability of buildings
+.Caso SPEA EINDHOVEN - La palabra clave es ‘colaboración’
+[TIP]
+El ayuntamiento de Eindhoven apuesta por la construcción sostenible con un enfoque más integrado y holístico, un enfoque que haga lógico que las diferentes partes involucradas se esfuercen para la calidad a largo plazo y satisfagan las necesidades de todas las partes interesadas.
+Además, las inversiones en innovación y calidad requieren un plazo más largo para obtener un rendimiento suficiente de la inversión gracias a las economías de escala y la cooperación.
+El horizonte del proyecto es, por lo tanto, 2045.
+La metodología de “Paso Natural” se aplica para mejorar la sostenibilidad de los edificios
 _(http://www.eindhoven.nl/artikelen/Duurzaamheid-volgens-The-Natural-Step.htm)_
+//enllaç trencat
 
-== PILLAR III: Begin the procurement process
+== PILAR III: Iniciar la compra
 
-*CHOOSING THE PROCEDURE: FACTORS TO CONSIDER*
+*Elección del procedimiento: Los factores a considerar*
 
-The first step in choosing the procedure is to ask the following questions:
-Will I need Research, Development and Innovation?
-Is there a solution, but not on a commercial scale?
-Do we have enough information to draft the technical specifications?
-We recommend a flexible use of procurement procedures and decisions made on a case-by-case basis.
+El primer paso para escoger el procedimiento es formularse las preguntas siguientes:
+¿necesitaré una I+D+i?
+¿Hay la solución pero no a escala comercial?
+¿Disponemos de suficiente información para redactar las prescripciones técnicas?
+Se recomienda un uso flexible de los procedimientos de contratación y una decisión caso por caso.
 
-In fact, we can solve some of our challenges by acquiring innovation through the addition of *innovation clauses or measures in our regular procurement processes.*
+De hecho, podemos solucionar algunos de nuestros retos adquiriendo innovación mediante la introducción de *cláusulas o medidas de innovación en nuestras compras regulares*.
 
-If we see that we must procure exclusively R&D services to develop a solution that is not available on the market, we will use a *Pre-commercial Public Procurement (PPP)* process, which will be subject to the general principles of public procurements.
+Si entendemos que hay que contratar exclusivamente servicios de I+D para desarrollar una solución que no está disponible en el merca-do, haremos uso de la *Compra pública pre-comercial (CPP)*, que quedará sujeta a los principios generales de la compra pública.
 
-However, if the market is already prepared to respond to the needs identified in a reasonable period of time, a *Public Procurement of* *Innovative Technology (PPIT)* process, using the normal open or restricted procedures without negotiation, may be suitable.
-However, we have to be able to consider the use of an invitation to tender procedure with negotiation or a competitive dialogue process that will be able to provide us with innovative final commercial solutions that are new to the market.
+Sin embargo, si el mercado ya está preparado para dar respuesta a las necesidades planteadas en un plazo razonable de tiempo, la *Compra pública de tecnología innovadora (CPTI)*, mediante los procedimientos habituales abiertos o restringidos sin negociación, puede convertirse en adecuada.
+Pero tenemos que poder prever el recurso del procedimiento de licitación con negociación o el de diálogo competitivo que nos pueden aportar soluciones finales comerciales innovadoras recién llegadas al mercado.
 
-Competitive dialogue has proven to be useful in cases in which the contracting entities are not in a position to define the ideal means of satisfying their needs or assess the technical, financial or legal solutions that the market may offer.
-This situation may arise for any contract, but is particularly common with innovative projects, in the execution of large integrated transport infrastructure projects, or for large-scale networks or IT projects which require complex, structured funding.
+El diálogo competitivo ha demostrado ser útil en los casos en que los poderes adjudicadores no están en condiciones de definir los medios ideales para satisfacer sus necesidades o evaluar las soluciones técnicas, financieras o jurídicas que puede ofrecer el mercado.
+Esta situación se puede presentar en cualquier contrato, pero, especialmente, en los proyectos innovadores, en la ejecución de grandes proyectos de infraestructuras de transporte integrado o en las redes o los proyectos informáticos de grandes dimensiones que requieran una financiación compleja y estructurada.
 
-In addition to the ordinary procedures with or without dialogue and negotiation, the 2014 directives offer us a new procedure that was created specifically to promote innovation from demand, *association for innovation*.
-This procedure includes the possibility for performing research and procuring the first pilot.
+Además de los procedimientos ordinarios con o sin diálogo y negociación, las directivas de 2014 nos ofrecen un procedimiento nuevo y creado específico para la promoción de la innovación desde la demanda, *la asociación para la innovación*, un procedimiento que integra la posibilidad de investigación y contratación del primer piloto.
 
-The Procedures chapter of this guide presents more information on the different options with regard to procedures and how to choose one.
+En el capítulo Procedimientos de esta guía presentamos el detalle de las diferentes alternativas con respecto a los procedimientos y su elección.
 
 [TIP]
 ====
-* Collaboration
-* Commitment
-* Trust
+* Colaboración
+* Compromiso
+* Confianza
 ====
 
-*CONSIDER AND LEARN TO MANAGE RISKS*
+*Considerar y aprender a gestionar los riesgos*
 
-Proper management of public projects necessarily includes risk identification and analysis.
-This step will be carried out during the project planning phase and will be repeated during the different phases of the public procurement process.
-Therefore, a wide-ranging group of players must be involved both when defining the procurement needs as well as when analysing risk.
+La buena gestión de proyectos públicos siempre tiene que ir acompañada de un ejercicio de identificación y análisis de riesgos.
+Se llevará a cabo durante la fase de planificación del proyecto y se repetirá durante las diferentes fases de la compra pública.
+Para eso se tiene que implicar un amplio grupo de actores interesados tanto por la definición de las necesidades de compra como por el análisis de los riesgos.
 
-The new rules on procurement aim to facilitate cooperation between contracting authorities, which could encourage the sharing of risks and benefits to tackle innovative projects and group demand.
-Risk aversion could slow the efforts being invested in promoting PPI at the City Council.
+Las nuevas reglas sobre contratación pretenden facilitar la cooperación entre autoridades contratantes, hecho que puede promover compartir riesgos y beneficios para abordar proyectos innovadores y agrupar la demanda.
+Y es que la aversión al riesgo puede frenar los esfuerzos que se invierten en la promoción de la CPI desde el Ayuntamiento.
 
-Many of the risks, although not all, can be managed with an appropriate choice of procurement procedure, an intellectual property strategy, and the appropriate contractual clauses.
-To reduce the risks associated with PPI or with a precommercial public procurement (PPP), a strategy that anticipates these challenges and allows for the appropriate planning and management must be established.
-Other organisations or experts who have developed these types of procedures may be consulted.
-The innovation procurement platform provides a forum for this purpose (see more information at _https://www.innovation-procurement.org_).
+Muchos de los riesgos, aunque no todos, pue-den gestionarse con una elección adecuada del procedimiento de contratación, una estrategia de propiedad intelectual y unas cláusulas contractuales adecuadas.
+Para reducir los riesgos asociados al desarrollo de CPI o de una compra pública pre-comercial (CPP), se tiene que desarrollar una estrategia que se anticipe a estos desafíos y permita una planificación y gestión adecuadas.
+Se puede consultar a otras organizaciones o personas expertas que ya hayan desarrollado este tipo de procedimientos.
+La Plataforma de la contratación de innovación proporciona un foro con este fin (ver más información en _https://www.innovation-procurement.org_).
 
-Once the risks have been identified, there are several ways to manage them:
+Una vez identificados los riesgos hay varias maneras de gestionarlos:
 
-*Implement measures that reduce the likelihood of issues arising.*
-For example, a way of reducing risks of the contracting entity is to include a contingency plan for the people who are going to manage the project, as well as properly plan the project and receive training on PPI.
-To reduce technological risks, sufficient time must be allowed to test the solution.
-To prevent getting stuck with just one supplier, the solution would be to create joint demand to increase acquisition volume, thereby increasing the appeal to the market, meaning there will be more entities interested.
+*Tomar medidas que incidan en la probabilidad de que ocurra.*
+Por ejemplo, una medida de reducir los riesgos en la entidad contratante misma es incluir un plan de contingencia para personas que vayan a gestionar el proyecto, como hacer una buena planificación y formarse en CPI.
+Para reducir los riesgos tecnológicos, hay que dejar tiempo para poder probar la solución.
+Para prevenir el hecho de quedarse con una única entidad proveedora, la solución será hacer una demanda conjunta para aumentar el volumen de adquisición y que resulte así más atractiva para el mercado, con más partes interesadas.
 
-*Division or transfer of risk among the parties.*
-It is a good idea for risk to be put on the party that can best control it.
-Risk can also be divided into elements that can be distributed among the parties.
+*Reparto o transferencia del riesgo entre las partes.*
+Es aconsejable poner el riesgo en la parte que mejor puede controlarlo.
+Los riesgos también pueden ser divididos en elementos que se puedan dividir entre las partes.
 
-*Avoid actions that increase risk.*
-At the end of the project, a follow-up study of the risks will be carried out to verify the accuracy of the estimated likelihood and impact.
-The lessons learned from this analysis will be used in future projects.
+*Evitar acciones que aumenten los riesgos.*
+Al acabar el proyecto, se hace un seguimiento de los riesgos para comprobar la veracidad de la probabilidad e impacto estimado.
+De aquí se extraen las lecciones aprendidas que se utilizarán en proyectos futuros.
 
-.Example from the city of Detmold: photocatalytic concrete
-TIP: During the market consultation, the technical risks were assessed with regard to available research studies and manufacturer information.
-Visits to the factories were organised and different approaches to the products were compared.
-A sustainability analysis was carried out based on an estimation of a life span of at least 50 years.
-The results were sent to the planning team to determine which techniques were the most appropriate for the project.
-Finally, political approval was requested for all of the work, keeping in mind the additional estimated costs associated with the use of photocatalytic concrete.
+.Ejemplo de la ciudad de Detmold: hormigón fotocatalítico
+[TIP]
+Durante la Consulta al mercado se evaluaron los riesgos técnicos en relación con los estudios de investigación publicados y los datos de los fabricados.
+Se organizaron visitas a las fábricas y se compararon los diferentes enfoques de los productos.
+Se llevó a cabo un análisis de la sostenibilidad basándose en la estimación de una vida útil de al menos 50 años.
+Se remitieron los resultados al equipo de planificación para que determinase qué técnicas eran las más apropiadas pera el proyecto.
+Y se pidió la aprobación política pera el conjunto del trabajo teniendo en cuenta los costes adicionales estimados asociados al úso de hormigón fotocatalítico.
 
 *INTELLECTUAL PROPERTY RIGHTS*
 
