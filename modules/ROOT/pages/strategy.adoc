@@ -1,117 +1,116 @@
-= The strategy of procurement for innovation
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
-== The strategy of procurement for innovation at Barcelona City Council
+= La estrategia de compra para la innovación
 
-The City Council would like to advantage of the benefits of procurement for innovation and has established a strategy for implementing a series of actions to ensure that its procurement processes promote innovation, so as to guarantee and increase the well-being of city residents.
+== La estrategia de compra para la innovación en el Ayuntamiento de Barcelona
 
-If we want to promote sustainable and inclusive growth in Barcelona, we have to learn to use all of the potential offered to us by regulations, keeping in mind that there will be changes made shortly, especially changes with regard to PPI included in directive 2014/24.
+El Ayuntamiento quiere participar en las ventajas de la compra para la innovación y se ha fijado como estrategia la introducción de una serie de acciones *para hacer que sus compras fomenten la innovación* con la finalidad de garantizar e incrementar el bienestar de las personas que viven en el territorio.
 
-Therefore, we are facing a paradigm shift and a change in organisational culture with regard to procurements.
-The doors are opening to new procurement methods with clear advantages, which we would like to incorporate as soon as possible.
+Si queremos promover un crecimiento sostenible e integrador en Barcelona, tenemos que aprender a utilizar todo el potencial que nos ofrece la normativa, teniendo en cuenta que en un tiempo breve habrá novedades, en particular, las novedades con respecto a CPI que introduce la directiva 2014/24.
 
-The City Council has approved *regulations* such as the decree on sustainable public procurement (S1/D/2017-1271 24/04) and its implementing guides so as to boost social, ethical, environmental and innovation measures.
-This is a clear shift towards this new vision of procurement.
+Nos encontramos, por lo tanto, en un cambio de paradigma y de la cultura de la organización ante las compras.
+Se nos abren las puertas a una nueva manera de contratar con claras ventajas que queremos incorporar lo antes posible.
 
-.The importance of market consultation
-TIP: The city of Detmold wanted to renovate its central bus station.
-It identified the potential to reduce pollution by using photocatalytic concrete thanks to information obtained from market consultation: the technical specifications stated that the concrete must have between 3% and 5% TiO2 in order to achieve an annual reduction in the emissions of nitric oxide, instead of a detailed list of materials.
+El Ayuntamiento ha aprobado *normativa* como el decreto de contratación pública sostenible (S1/D/2017-1271 24/04) y las guías que lo desarrollan para impulsar las medidas sociales, éticas, ambientales y de innovación, y supone un punto de inflexión hacia esta nueva visión de las compras.
 
-Other actions that the City Council plans to carry out include:
+.La importancia de la consulta en el mercado
+TIP: La ciudad de Detmold quería renovar la estación central de autobuses.
+Identificó el potencial de reducir la contaminación mediante el uso de un hormigón fotocatalítico gracias a la información obtenida en la consulta del mercado: los pliegos especificaron que el hormigón debería tener entre un 3% y un 5% de TiO2 para una reducción anual en las emisiones de óxido de nitrógeno, en vez de una lista detallada de insumos.
 
-*Planning tenders.* Planning procurements.
-It should be kept in mind that PPI is a new instrument for reaching our city’s goals.
-Therefore, PPI must be used in cases where the solution we need doesn’t exist (or not on a large scale) and when we have a significant procurement budget to be applied in the medium or long term that guarantees the scalability of solutions.
-We will have to examine on a case-by-case basis which areas should get involved in PPI and which is best positioned in the organisation to lead the process.
+Otras acciones que tiene previsto llevar a cabo el Ayuntamiento son las siguientes:
 
-This new model for contractual relations allows us to promote broader and more dynamic procurement and contract execution procedures, enabling us to even consider joint and aggregate demand procurement and execution processes with other administrations.
-We will have to analyse case by case whether the needs detected are ideally suited to a joint PPI, and whether it makes sense to establish a framework agreement so that other administrations can use the final results.
+*Planificar las compras.*
+Conviene tener en cuenta que la CPI es un nuevo instrumento para llegar a alcanzar nuestros objetivos de ciudad.
+Es por eso que se tiene que hacer uso de la CPI en los casos en los que no existe la solución que necesitamos (o no a gran escala) y cuando dispondremos de un presupuesto de compra importante a aplicar a medio o largo plazo que garantice la escalabilidad de las soluciones.
+Se tendrá que analizar caso por caso qué áreas se tienen que implicar en la CPI y cuál está mejor situada en la organización para liderar el proceso.
 
-.Networking
+Este nuevo modelo de relación contractual nos permite fomentar procedimientos de contratación y ejecución de contratos más amplios y dinámicos posibilitándonos plantear, incluso, procesos de compras y ejecución conjuntas y de demanda agregada con otras administraciones.
+Se tendrá que analizar caso por caso si las necesidades detectadas son adecuadas para una CPI conjunta, y si tiene o no sentido establecer un acuerdo marco de manera que otras administraciones puedan utilizar los resultados finales.
+
+.Trabajo en red
 [TIP]
 ====
-* Multidisciplinary teams.
-* Networking with the industry and universities.
-* Partnership and experience sharing networks.
-* Training for educators.
+* Integración de equipos multidisciplinares.
+* Trabajo en red con la industria y las universidades.
+* Redes de colaboración y de reparto de experiencias.
+* Formación de personas formadoras.
 ====
 
-*Determining the City Council areas most suited to launching a PPI.*
-The idea is to start to work with procurement in the areas that will have the greatest impact or which are suited to including innovation, and then share the lessons learned with other areas and standardise the use of PPI.
-Some prioritised areas include ICT, circular economy and health.
+*Determinar las áreas del consistorio más adecuadas para iniciar una CPI.*
+La finalidad es empezar en el camino de las compras en las áreas que pueden tener más impacto o son más susceptibles de incorporar innovación, y después compartir los aprendizajes con el resto de áreas y regularizar el uso de la CPI.
+Algunas áreas priorizadas son las TIC, la economía circular o la salud.
 
-.Selecting priority areas
+.Selección de áreas prioritarias
 [TIP]
 ====
-* Framework contracts
-* Calculation of performance
-* Technology as an ally
-* New funding mechanisms
-* Consulting at all phases
+* Contratos marco
+* Cálculo de rendimiento
+* La tecnología como aliada
+* Nuevos mecanismos de financiación
+* Asesoramiento en todas las fases
 ====
 
-*Dialogue with the market and business.*
-The current legal framework establishes the possibility to initiate a dialogue between the entities awarding contracts and the market prior to beginning the procurement process.
-The purpose is to understand and research the solutions offered by the market to cover the needs that are the subject of the contract before publishing the definitive specifications.
-This allows for a better and more in-depth understanding of the Administration’s needs, the promotion and inclusion of the latest innovations on the market, and greater collaboration among the parties.
+*Dialogar con el mercado y el tejido empre-sarial.*
+El marco legal actual recoge la posibilidad de iniciar un diálogo entre los poderes adjudicadores y el mercado, previo al inicio del expediente de contratación.
+El Ayuntamiento habilitará los canales adecuados, principalmente digitales para establecer el diálogo.
+El objetivo es conocer y hacer prospección de las soluciones que ofrece el mercado para cubrir las necesidades objeto del contrato antes de la publicación del pliego definitivo.
+Eso permite una mejor y más pro-funda comprensión de las necesidades de la Administración, la promoción e incorpora-ción de las últimas innovaciones existentes en el mercado y una colaboración mayor entre las partes.
 
-.Strategic management in the medium and long
+.Gestión estratégica a medio y largo plazo
 [TIP]
 ====
-* Different procurement strategies
-* Specialised teams
-* Life-cycle cost analysis
-* Risk management
-* Assessment of results
-* Quality control
-* Intellectual property rights
+* Estrategias de compras diferenciadas
+* Equipos especializados
+* Análisis del coste del ciclo de vida
+* Gestión de riesgos
+* Evaluación de resultados
+* Control de calidad
+* Derechos de propiedad intelectual
 ====
 
-*Including innovation measures in each contract.*
-The logic behind this idea is that innovation is not something static or something that can be summoned on schedule.
-Therefore, the City Council is committed to focusing on innovation in its contracts, to carrying out market consultations, and to increasing dialogue with industry.
-It aims to encourage researchers and companies to reflect on the city’s challenges, the well-being of people, to develop innovative even to consider centralised procurements before the process has been launched.
+*Introducir medidas de innovación en cada contrato.*
+La lógica de esta idea es que la innovación no es algo estático o algo de lo que se pueda planificar la aparición.
+Por lo tanto, el consistorio se plantea trabajar orientado a la innovación en sus contratos, llevar a cabo consultas de mercado y aumentar el diálogo con la industria.
+Se trata de animar a investigadores, investigadoras y empresas a reflexionar sobre los retos de la ciudad, el bien-estar de las personas, y desarrollar soluciones innovadoras, incluso plantear compras centralizadas antes de que se haya lanzado un procedimiento de contratación.
 
-*Technology as an ally.*
-The evolution of ICT and the generalised use of the Internet are transforming practically all sectors of society and our economy.
-Information and data have become one of the most valuable and prized goods, and they comprise what is called the _knowledge economy or digital economy._
+*La tecnología como aliada.*
+La evolución de las TIC y el uso general de internet están transformando prácticamente todos los sectores de la sociedad y de nuestra economía.
+La información y los datos se han convertido en uno de los bienes más valiosos y preciados, y configuran lo que denominamos _economía del conocimiento o economía digital._
 
-Cities like Barcelona, with initiatives like the Barcelona Digital City 2017-2020 Plan, are confronting the need to transform their ways of doing business and to look for new strategies based on technology and innovation which enable us to take advantage of the drive and development of this new economy, and which, at the same time, will provide great social benefits and more equitable and sustainable economic growth.
+Las ciudades como Barcelona, con iniciativas como el Plan Barcelona Ciudad Digital 2017-2020, se enfrentan a la necesidad de transformar sus maneras de hacer y buscar nuevas estrategias basadas en la tecnología y la innovación que permitan aprovechar el impulso y el desarrollo de esta nueva economía y que comporten al mismo tiempo grandes beneficios sociales y un crecimiento económico más equitativo y sostenible.
 
-The measures that must be followed and which will drive the new model of sustainable procurement will be organised into areas of action, such as ethics in data or technological sovereignty based on free software, open data and agile methodologies, which will be explained in detail in the City Council’s forthcoming guide on technology procurement that is currently being drafted.
+Las medidas que habrá que observar y que impulsarán el nuevo modelo de contratación sostenible para la innovación se tendrán que estructurar en ejes de actuación como la ética de los datos o la soberanía tecnológica basada en _software libre_, datos abiertos y metodologías _agile_, que se desarrollarán en detalle en la futura guía de compra de tecnología del Ayuntamiento, actualmente en redacción.
 
-*Establish financing funds.* The City Council has several funds to finance its PPI projects.
-One of the most significant is the ordinary procurements budget itself, which, by adding measures for innovation, becomes one of the most important driving forces.
+*Habilitar fondos de financiación.*
+El Ayuntamiento dispone de varios fondos para la financiación de sus proyectos CPI.
+Uno de los más importantes es el mismo presupuesto de compras ordinarias, en el que, incorporando las medidas para la innovación, se convierte en uno de los ejes tractores más importantes.
+El Ayuntamiento dispone también de fondos estructurales (FEDER) para apoyar a este proceso, y los quiere aplicar apoyar a las TIC, la economía circular y la salud.
 
-The City Council also has structural funds (ERDF) available to support this process, and it is hoping to apply them to support ICT, the circular economy and health.
+También se pueden encontrar fondos de financiación en los provenientes por concurso de la UE, el Banco Mundial y otros para PYMES.
+Desde diferentes organismos internacionales se está facilitando asesoramiento, apoyo financiero, organizando acontecimientos y convocando premios para ayudar a las autoridades contratantes a desarrollar CPI de manera abierta y no discriminatoria facilitando el acceso de las pequeñas y medianas empresas.
 
-There is also funding available through tender processes offered by the EU, the World Bank and others available for SMEs.
-Different international organisations are facilitating consulting and financial support, and are organising events and prizes to help contracting authorities develop PPI openly and in a non-discriminatory fashion, thereby facilitating access to small and medium enterprises.
+*Transmitir formación y conocimiento.*
+Cada equipo de compra pública tendrá que identificar qué compras son objeto del procedimiento CPI y que, por lo tanto, necesitarán nuevas técnicas y conocimientos para detectar la innovación.
+Esta innovación se puede encontrar de diferentes maneras, añadiendo nuevas tecnologías a nuestras adquisiciones, también solicitando bienes que sean la composición de producto y servicio o bien introduciendo nuevas maneras de fabricación de un mismo producto; en definitiva, serán necesarias nuevas habilidades en estos equipos para orientar los nuevos procesos de compra.
 
-*Facilitate education and knowledge.*
-Each public procurements team will need to identify which tenders are suitable for the PPI process and which, therefore, will require new techniques and knowledge to detect innovation.
-This innovation can be found in different ways: by adding new technologies to our acquisitions, requesting goods that are the combination of a product and a service, or by introducing new ways of manufacturing an old product.
-In short, new skills will be needed on these teams to guide these new procurement processes.
+*Seleccionar periódicamente iniciativas modelo y hacer divulgación.*
+Hay un delicado equilibrio entre el deber de asegurarse que el mercado conoce exactamente cuáles son los requerimientos públicos en una compra y al mismo tiempo dejar espacio suficiente para formas diferentes y nuevas de responder a estos requerimientos.
+Se actuará con iniciativas para las cuales el Ayuntamiento cree que puede tener un papel demostrativo, con prescripciones técnicas funcionales basadas en el rendimiento, o permitiendo variantes, dos maneras interesantes de permitir cierta flexibilidad a las empresas licitadoras a la hora de proponer soluciones.
 
-*Periodically select model initiatives and outreach.*
-There is a delicate balance between the responsibility of ensuring that the market knows exactly what the public requirements of a tender process are, and at the same time leaving enough space for new and different approaches to responding to these requirements.
-The City Council will work with initiatives that it thinks could serve as an example, with functional technical requirements based on performance, or which permit variation, two interesting ways of allowing for a certain amount of flexibility for bidding companies when they propose solutions.
+image::ict-procurement-pag12-{lang}.svg[image, align="center", width=100%]
 
-image::NewModelForRelations.png[image, align="center", width=100%]
+== Las claves del éxito
 
-== The keys to success
+Del estudio de benchmark realizado a nivel europeo por el Ayuntamiento se concluye que la promoción de la CPI debe ir idealmente acompañada de medidas de planificación y organización que facilitan el éxito de su implementación. Estas recomendaciones se pueden resumir en las 4M´s:
 
-Based on the benchmark study carried out across Europe by the City Council, we have concluded that PPI should ideally be accompanied by planning and organisation measures that facilitate its successful implementation.
-These recommendations can be summed up by the four ‘M’s:
-
-.The keys to success: the four ‘M’s
+.Las claves del éxito: las cuatro emes (M)
 [TIP]
 ====
-* A *political mandate* at the highest level, with long-term planning of procurements with professional, stable teams.
-* *Mentality:* Training for teams, open, flexible dialogue with the market, a favourable culture that is promoted across all areas.
-* *Means* and professional human resources, experts in risk management who have experience in assessing projects, training, and a method for communicating best practices.
-* *Measurement.* Mandatory, quantifiable objectives that are binding and monitored.
+* *Mandato político* al más alto nivel, con planificación de las compras a largo plazo y con equipos profesionales y estables.
+* *Mentalidad:* Formación de los equipos, diálogo abierto y flexible con el mercado, cultura favorable promovida transversalmente.
+* *Medios* y recursos humanos profesionales, expertos en gestión de riesgo con práctica en la evaluación de proyectos, formación y mecanismo de comunicación de buenas prácticas.
+* *Medición.* Objetivos obligatorios y cuantificables, vinculantes y monitorizados.
 ====

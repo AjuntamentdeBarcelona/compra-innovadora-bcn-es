@@ -1,101 +1,102 @@
-= How to make this a reality. Principles and procedures
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
-== Where do we start?
+= Cómo hacerlo realidad. Principios y procedimientos
 
-Public procurement for innovation is not a new procurement procedure, but rather a way of carrying out procurements in a collaborative way so as to respond to needs that do not currently have a solution on the market.
+== Cómo empezamos?
 
-This way of carrying out procurement with a strategic vision leads us to more conscientious planning of our procurement activity.
-It’s a new culture.
-We have to think with a holistic view of the entire process, from the detection of the need, market consultation and administrative preparation, to execution.
-However, we must also follow-up and assess the results.
-We must verify to what extent we were able to satisfy our needs, and we can scale solutions as we had planned.
+La contratación pública para la innovación no es un procedimiento de contratación nuevo, es una nueva manera de contratar de forma colaborativa para responder a necesidades que no encuentran solución en el mercado.
 
-.Some actions to undertake
+Esta manera de contratar con una visión estratégica nos lleva a una planificación más esmerada de nuestra acción de compra.
+Es una nueva cultura.
+Tenemos que reflexionar con una visión holística sobre todo el proceso, desde la detección de la necesidad, la consulta en el mercado o la preparación administrativa, hasta la ejecución; pero también observando el seguimiento y la evaluación de los resultados.
+Tenemos que verificar en qué grado satisfacemos finalmente nuestras necesidades y podemos escalar las soluciones tal y como habíamos planificado.
+
+.Algunas acciones a emprender
+
 [TIP]
 ====
-* Training
-* Planning, collaboration and trust
-* Creating networks Providing funding
-* Risk analysis
-* ... and “more training” ...
+* Formación
+* Planificación, colaboración y confianza
+* Creación de redes
+* Provisión de financiación
+* Análisis de riesgos
+* ... y “más formación”...
 ====
 
-Every tender will have to be analysed on a case-by-case basis.
-What need do we have to cover?
-Is there already a solution on the market or do we have to come up with a new one?
-What would happen if there already is a solution, but it’s not being marketed?
-Can our provider become our partner?
+Cada compra tendrá que ser analizada caso por caso.
+¿Qué necesidad tenemos que cubrir? ¿Existe ya la solución en el mercado o hay que inventarla? ¿Qué pasaría si, existiendo, todavía no estuviera comercializada...? ¿Nuestro proveedor se puede convertir en nuestro socio?
 
-Therefore, we have to structure our procurements around four pillars.
+Por eso tenemos que estructurar nuestras compras en cuatro pilares.
 
-[cols=",,,", stripes=even, grid=cols, valign=top, options="header",]
+[cols="^,^,^,^", , grid=cols, valign=top, options="header",]
 |===
-|Pillar I  |Pillar II |Pillar III |Pillar IV
-|Detect needs
-|Involve different players
-|Begin the procurement process
-|Monitor and assess
-|Identify the challenge and a tender for innovation that has a clear, scalable impact.
-|Identify the players, prepare working meetings, advance notification of the invitation to tender, market consultations and guarantee equal treatment.
-|Choose the procedure, draft specifications, establish selection criteria, risk management, funding process, etc.
-
-Evaluate joint procurement processes.
-|Monitor the execution of the contract (the real change) ASSESSMENT OF THE PPI and lessons learnt.
+|Pilar I  |Pilar II |Pilar III |Pilar IV
+|Detectar las necesidades
+|Involucrar a los diferentes actores
+|Iniciar la compra
+|Seguir y evaluar
+|Identificación del reto y de la compra para la  innovación con un impacto claro y escalable.
+|Identificación de los actores, preparación de reuniones de trabajo, aviso previo de licitación,
+consultas en el mercado y aseguramiento de la igual
+dad de trato.
+|Elección del procedimiento, redacción de los pliegos, establecimiento de los criterios de selección, gestión del riesgo, procesos de financiación...
+Valorar compras conjuntas
+|Seguimiento de la ejecución del contrato (el verdadero cambio)
+Evaluación de la CPI y resumen de lecciones aprendidas
 |===
 
-Let’s look at it step by step...
+Veámoslo paso a paso...
 
-== PILLAR I Detect needs
+== PILAR I: Detectar las necesidades
 
-Everyone has dozens of needs and problems to solve.
-We should define the objectives to be reached through public procurement from a broad range of perspectives: detecting your goals, your needs, and your challenges.
-A system must be applied to build a catalogue and inventory of these needs.
-Once the needs have been established, we must consider whether they are aligned with the objectives of the city and its residents, and whether they can be solved by simple processes or if we need to apply complex methods.
-In short, we have to establish categories and an order of priority.
+Todas las personas nos encontramos ante multitudes de necesidades y problemas para resolver.
+Tendríamos que definir con amplitud de miras los objetivos a alcanzar mediante el contrato público: detectar vuestros objetivos, vuestras necesidades y vuestros retos.
+Hay que aplicar un sistema e ir construyendo un catálogo e inventario de estas necesidades.
+Nos tenemos que plantear, una vez formuladas las necesidades, si están orientadas con los objetivos de la ciudad y la ciudadanía, si pueden ser solucionadas por procesos sencillos o tenemos que aplicar métodos complejos.
+En definitiva, tenemos que construir una categorización y orden de prioridades.
 
-*START EARLY AND DECIDE IF PPI IS SUITABLE*
+*Empieza pronto y decide si estás ante una CPI*
 
-Wanting to promote innovation should not lead us to create false needs.
-The detection of true needs will be the result of joint working sessions with the players who work with the good or service to be purchased, and with technical personnel, users, and suppliers.
-These sessions will be approached as a wish list of items to be achieved.
-Therefore, before drafting the specifications, we must determine whether the solution already exists and whether it requires the development of pilot trials or not.
+El hecho de querer promover la innovación no tiene que llevarnos a crear falsas necesidades.
+La detección de auténticas necesidades será el fruto de sesiones conjuntas de trabajo con los actores que trabajan con el bien o el servicio a comprar, con el personal técnico, las personas usuarias, los proveedores.
+Estas sesiones se plantean como una lista de deseos a alcanzar.
+Por eso, antes de hacer el pliego hay que averiguar si la solución existe o no y si necesita o no el desarrollo de pruebas piloto.
 
-Example:
+*Ejemplo:*
 
-Within the framework of PPI projects funded under the ERDF programme RIS3cat, the challenge the City Council is posing is research into solutions for paved surfaces that reduce the heat island effect, the generation of noise, and atmospheric pollution.
+En el marco de proyectos CPI financiados bajo el programa FEDER RIS3cat, el reto que se está planteando el Ayuntamiento es la investigación de soluciones en pavimentos que reduzcan el efecto de isla de calor, la generación de ruido y la reducción de contaminación atmosférica.
 
-From our internal working sessions, we have established that urban paved surfaces should contribute to making the city more comfortable for its residents, achieving a more natural feel, with characteristics similar to skin or clothing, and must be resistant to external demands, allowing for breathability, drainage, and maintaining a comfortable temperature.
-Skin has nerve endings (sensors) which allow us to feel cold or heat and which detect disease or damage with a change in colour and other symptoms (rashes, cuts, etc.).
-This has been the foundation for beginning a consultation with the market and determining if there are solutions that can meet this need.
+De las sesiones internas de trabajo se ha entendido que los pavimentos urbanos tendrían que contribuir al hecho de que la ciudad fuera más confortable para sus habitantes, alcanzando un carácter más natural con características parecidas a la piel o a la ropa, y ser resistentes a las solicitaciones externas, permitiendo la transpirabilidad, el drenaje y el mantenimiento de una temperatura confortable.
+La piel tiene terminaciones nerviosas (sensores) que permiten sentir frío o calor, o detectar patologías o daños con un cambio de color y otros (erupciones, cortes, etc.).
+Estas han sido las bases para iniciar una consulta en el mercado y determinar si existen soluciones que den respuesta a esta necesidad.
 
-*Needs: the key*
+.*Necesidades: la clave*
+[TIP]
+Una evaluación de necesidades debe tener en cuenta tanto las necesidades actuales como las futuras, y examinar la capacidad de la organización para asumir las soluciones potenciales.
+Una evaluación de las necesidades genera una mejor base de consulta abierta al mercado, ya que proporciona datos esenciales para las entidades proveedoras e identifica cualquier tipo de laguna.
 
-An assessment of needs must consider both current and future needs, and examine the organisation’s capacity to implement potential solutions.
-A needs assessment generates a better basis for open market consultations, as it provides essential information for the supplier entities and identifies any gaps.
+== PILAR II: Involucrar a los diferentes actores
 
-== PILLAR II: Involve different players
+Una vez hemos formulado nuestro reto, es fundamental contar con la ayuda de profesionales y un servicio de asesorías con conocimiento actualizado del mercado, y asegurarse una imagen completa de los últimos avances.
+Para ello se tiene que consultar una amplia variedad de fuentes y trabajar con equipos multidisciplinares.
+Podemos recurrir a otras gerencias o áreas de la misma organización, a congresos locales o internacionales, universidades, agencias de innovación y/o redes europeas, asociaciones empresariales, sindicales, sociales, vecinales, etc.
+Tenemos que decidir qué información es necesaria recoger y compartir y a qué operadores del mercado nos tenemos que dirigir.
 
-Once our challenge is formulated, it is essential to have the help of professionals and consulting services who are knowledgeable about the state of the market so as to ensure that we have a full understanding of the latest advances.
-To that end, we must consult a wide variety of sources and work with multidisciplinary teams.
-We can turn to other departments or areas in the same organisation, to local or international conferences, universities, European innovation agencies and/or networks, and business, labor unions, social, and residential associations, etc.
-We have to decide which information we need to collect and share and which market entities we will need to contact.
+*Consultas en el mercado*
 
-*MARKET CONSULTATION*
+En el proceso de estructuración de nuestra compra también podemos formalizar una consulta en el mercado.
+El lanzamiento de la consulta preliminar del mercado nos permitirá conocer la oferta existente y, al mismo tiempo, nos posibilitará implicar anticipadamente el mercado.
 
-In the process of organising our procurements, we may also carry out a market consultation.
-Launching a preliminary consultation with the market enables us to better understand the existing offer and, at the same time, makes it possible for us to involve the market in advance.
+Estas consultas no son vinculantes para la Administración y, en ningún caso, no tienen que privilegiar a unos actores frente a otros, de manera que toda la información durante la consulta tiene que ser pública, se tienen que proteger los derechos de propiedad industrial e intelectual de las entidades proveedoras, y se tiene que informar de los resultados.
+Este diálogo puede iniciarse con un anuncio previo de licitación.
+Los pasos esenciales a seguir son los siguientes:
 
-These consultations are not binding for the Administration and under no circumstances should favour one set of players over another; therefore all of the information collected during the consultation must be public, the industrial and intellectual property rights of the providers must be protected, and the results must be reported.
-This dialogue can be initiated through an announcement prior to the invitation to tender.
-The essential steps to follow are:
-
-* Decide which information must be collected and shared, and which market entities must be contacted.
-* Choose the best format for the consultation and prepare the necessary human and material resources.
-* Maintain a record of the consultation process and ensure equal treatment.
+* Decidir qué información es necesario recoger y compartir, y a qué operadores de mercado hay que dirigirse.
+* Escoger el mejor formato para la consulta y preparar los recursos materiales y humanos necesarios.
+* Desarrollar la consulta conservando un archivo del desarrollo y asegurando la igualdad de trato.
 
 *ASSESSMENT OF SUSTAINABILITY AND INNOVATION IN THE RESULTS OF THE MARKET CONSULTATION*
 

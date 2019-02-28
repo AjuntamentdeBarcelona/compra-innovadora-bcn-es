@@ -1,152 +1,149 @@
-= Innovating through procurements at Barcelona City Council
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
-== Background
+= Innovar desde la compra en el Ayuntamiento de Barcelona
 
-Europe (Directive 2014/24/EU) is promoting strategic public procurement which ties together the concept of efficiency in public expenditure and the promotion of the common European social objectives established in the “European Commission communication Europe 2020, _A strategy for smart, sustainable_ _and inclusive growth.”_
+== Antecedentes
 
-Along these lines, last April, Barcelona City Council passed a Mayoral Decree on *sustainable public procurement* (S1/D/2017-1271, 24 April), which states that “Barcelona City Council promotes sustainable public procurement which includes social, environmental, ethical and innovation measures in the cause and purpose of the municipal contract and which guarantees the labour, social, and citizen’s rights of the people who execute the public contract and of the recipients or users of said contract.
-Furthermore, said procurement should promote a local circular and sustainable economy, as well as foster the economic activity of local small, medium and micro- enterprises and, particularly, social enterprises”.
+Desde Europa (Directiva 2014/24/ UE) se pro-mueve la contratación pública estratégica, la que asocia el concepto de eficiencia en el gasto público con la promoción de objetivos sociales comunes europeos fijados en la comunicación de la Comisión Europea, Europa 2020, Una estrategia para un crecimiento sostenible, inteligente e Integrador.
 
-This decree also approved the social public procurement and environmental public procurement guides which have been the guidelines for sustainable public procurement at Barcelona City Council.
+En esta línea, el último mes de abril, el Ayuntamiento de Barcelona aprobó un decreto de alcaldía de contratación pública sostenible (S1/D/2017-1271, 24 de abril), que manifestaba que “El Ayuntamiento de Barcelona impulsa la contratación pública sostenible que integra, en la causa y el objeto del contrato público municipal, medidas sociales, ambientales, éticas y de innovación, garantizando los derechos laborales, sociales y ciudadanos de las personas que ejecuten el contrato público y de las personas destinatarias o usuarias del mismo, que impulsen una economía local circular y sostenible y que promuevan la actividad económica de las medianas, pequeñas y microempresas locales y, singularmente, de las empresas sociales “.
 
-This *innovative public procurement* guide aims to complement the guidelines which have already been approved, and add innovation in connection to economic, social and environmental sustainability as a multiplying element which helps create employment and economic growth, strengthens social and environmental values, while also supporting innovative companies that solve citizens’ challenges.
+En ese decreto se aprobaban también las guías de contratación pública social y contratación pública ambiental que han sido la pauta orientadora de la contratación pública sostenible del Ayuntamiento de Barcelona.
 
-This guide has been debated internally within city government and subsequently with citizen entities that represent economic, social and resident interests as part of the “Public Procurement Forum” established by Mayoral Resolution of 21 October 2016 as a space for citizen dialogue regarding public procurement.
+Esta guía de contratación pública innovadora quiere complementar las pautas ya aprobadas introduciendo la innovación ligada al desarrollo de la sostenibilidad económica, social y ambiental, y como elemento multiplicador que ayuda a crear empleo y crecimiento económico, potencia los valores sociales y ambientales a la vez que da apoyo a las empresas innovadoras que resuelven los retos de la ciudadanía.
 
-== What is public procurement for innovation (PPI)?
+Esta guía se ha debatido internamente dentro de la organización municipal y con posterior diálogo con entidades ciudadanas representativas de las actividades económicas, sociales y vecinales, en el seno de la “Mesa de Contratación Pública” constituida por Resolución de la Alcaldía de 21 de octubre de 2016 como espacio de diálogo ciudadano en contratación pública.
 
-Public procurement for innovation is a new way of contracting services and negotiating with the market in order to respond to needs that cannot be solved through ordinary processes.
+== Qué es la contratación pública para la innovación (CPI)?
 
-It is using public money to buy what we need, while trying to spend that money strategically so as to reach our goals of improving and satisfying citizens’ needs, and strengthening innovation and sustainability.
+La contratación pública para la innovación es una nueva manera de contratar y de dialogar con el mercado para responder a las necesidades que no encuentran soluciones en los procesos ordinarios.
 
-This new approach to public procurement is designed to be a fundamental tool for the City Council to obtain solutions that are much better adapted to the real demands of society and to help companies be more competitive.
-We hope to stimulate the creation of new local markets, new products, new production methods and new ways to organise or provide services.
+Se trata de utilizar el dinero público para comprar lo que necesitamos, intentando hacer el gasto con estrategia para alcanzar nuestros objetivos de mejorar y satisfacer las necesidades de la ciudadanía potenciando la innovación y la sostenibilidad.
 
-How are we going to do that? In practice, PPI begins with an open definition of the challenges and needs to be addressed, and offers the market the opportunity to explain how the problem can be solved, whether with existing solutions or not.
-These solutions must offer good value for money and consider the life cycle to calculate and determine costs.
-This practice positions the City Council with a role beyond that of purchaser to become a partner in solving the challenge identified.
+Este nuevo enfoque de las compras públicas se postula como una herramienta fundamental del Ayuntamiento para obtener soluciones que se ajusten mucho más a las demandas reales de la sociedad y para ayudar a las empresas a ser más competitivas.
+Queremos estimular la creación de nuevos mercados locales, nuevos productos, nuevos métodos de producción o nuevas maneras de organización o suministro y prestación de servicios.
 
-We must shift from public procurements with very detailed technical specifications and which are often awarded to the lowest bidder, to procurements that are based on the definition of challenges and innovative, sustainable solutions; this will often involve multiple players.
-This new approach allows us to identify new ideas and innovative solutions that deliver efficiency.
-A simple example would be to buy light instead of lampposts, or to buy hours of writing instead of pens.
+¿Y cómo lo haremos? La CPI empieza, en la práctica, con una definición abierta de retos y necesidades a solucionar y ofrece en el mercado la posibilidad de explicar cómo resolver el problema, ya sea con soluciones existentes o no, pero que dispongan de una buena relación calidad-precio y tengan en cuenta el ciclo de vida en el cálculo y la determinación de los costes.
+Esta práctica posiciona al Ayuntamiento con un rol más allá del comprador i pasa a ser socio en la resolución del reto identificado.
 
-Thus, the City Council is positioning itself as a driver of innovation in the market and a testing ground for its procurements by acquiring the results of research instead of subsidising pilot trials which often have difficulty scaling their impact.
+Tenemos que pasar de una compra pública muy detallada en los pliegos técnicos y a menudo adjudicada con criterios del mejor precio, a una compra que trabaja por definición de retos y soluciones sostenibles innovadoras, a menudo con la implicación de multiplicidad de actores.
+Este nuevo planteamiento permite la entrada de ideas, de soluciones innovadoras que aportan eficiencia.
+Un ejemplo sencillo sería pasar de comprar farolas a comprar luz, o pasar de comprar bolígrafos a horas de escritura.
 
-Other key elements of PPI are risk, cost efficiency, collaboration between entities, and ensuring that benefits are shared.
+El Ayuntamiento, pues, posiciona como tractor de innovación del mercado y banco de pruebas de sus compras al adquirir los resultados de la investigación y no subvencionar pruebas piloto que a menudo encuentran dificultades para escalar el impacto.
 
-.Main benefits of PPI:
+Elementos como el riesgo, la eficiencia de costes, la colaboración entre agentes y asegurar que se comparten los beneficios son elementos clave en una CPI.
+
+.Beneficios principales que aporta la CPI:
 [TIP]
 ====
-* *FOR CITIZENS.*
-Improves public services by including innovative goods or services that better and more efficiently serve the needs of all city residents. +
+* *PARA LA CIUDADANÍA.*
+Mejora de los servicios públicos mediante la incorporación de bienes o servicios innovadores que sirven mejor y más eficientemente a las
+necesidades de los ciudadanos y las ciudadanas.
 
-* *FOR INDUSTRY.*
-Supports innovative companies and SMEs that promote the City Council’s values on social, environmental and technological matters, driving development and internationalisation, as they build off of access to the local public market as their first flagship customer. +
+* *PARA LA INDUSTRIA.*
+Fomenta las empresas y las PYMES innovadoras que promueven los valores del Ayuntamiento en materia
+social, ambiental y tecnológico, impulsando el desarrollo y la internacionalización, ya que aprovechan el mercado público local como primer
+cliente de referencia.
 
-* *FOR PUBLIC ADMINISTRATION.*
-Promotes a cultural change within the Administration, shifting it towards more innovative practices and attaining economic and technical efficiency.
+* *PARA LA ADMINISTRACIÓN.*
+Promueve un cambio cultural dentro de la misma Administración, acercándola a prácticas más innovadoras y alcanzando eficiencia económica y técnica.
 ====
 
-== Public procurement with strategic vision
+== La compra pública con visión estratégica
 
-The Europe 2020 strategy for smart, sustainable and inclusive growth promotes an economy based on knowledge and innovation, with a more effective use of resources, that is more competitive, with a high level of employment, and which supports social and territorial cohesion.
-Directive 2014/24 indicates in its Second Recital that public procurement plays a key role in the Europe 2020 strategy.
+La estrategia Europa 2020 para un crecimiento inteligente, sostenible e integrador apuesta por una economía basada en el conocimiento y la innovación, con un uso más eficaz de los recursos y que sea más competitiva, con un alto nivel de empleo y buscando cohesión social y territorial.
+La directiva 2014/24 señala en su considerando segundo que la contratación pública tiene un papel clave en la Estrategia Europa 2020.
 
-TIP: Under the European initiative Horizon 2020 initiative, funds have been made available so that the public and private sectors can reach sustainable growth and innovation goals.
-In the 2014- 2020 period, the EU is planning to invest 70.2 billion euros.
+TIP: Bajo la iniciativa europea Horizonte 2020 se habilitan fondos para que el sector público y privado alcance los objetivos de crecimiento sostenible y de innovación.
+En el periodo 2014-2020, la inversión prevista por la UE es de 70.200 millones de euros.
 
-This is because government expenditure represent 20% of European GDP, making them an important economic agent with a great capacity to influence the market.
+Y eso es así porque el gasto de las administraciones representa el 20% del PIB europeo, hecho que convierte a los gobiernos en un agente económico relevante con una gran capacidad de influencia en el mercado.
 
-In fact, the European Union is actively promoting public procurement for innovation (PPI) as a public policy instrument.
-In addition to offering funds to finance it, the EU has established new procedures that support innovation and encourage purchasing sectors to work differently, with a more strategic vision.
+De hecho, la Unión Europea promueve activamente la compra pública para la innovación (CPI) como instrumento para hacer política pública.
+Además de ofrecer fondo para financiarla, establece nuevos procedimientos que apoyan a la innovación e invita a los sectores compradores a trabajar de manera diferente con una visión más estratégica.
 
-PPI aims to close the gap between social and citizen needs, administrative processes and the market.
+Y es que la CPI pretende salvar el vacío existente entre las necesidades sociales y ciudadanas, los procesos administrativos y el mercado.
 
-Until now, governments have subsidised industry and research in order to develop new technologies and their applications.
-However, these projects often do not advance beyond the pilot phase and lead to disillusionment in the industry, which loses confidence in the public sector as a driver of innovation.
+Hasta ahora, los gobiernos han subvencionado la industria y el ámbito de la investigación para el desarrollo de nuevas tecnologías y sus aplicaciones, con proyectos que a menudo no pasan de la fase piloto y provocan un cierto desencanto en la industria, que pierde la confianza en el sector público como motor de innovación.
 
-This new approach to public procurement aims to bring innovation closer to the market, and turn the public sector into a customer and beneficiary of sustainable and innovative solutions that are more suited to its needs.
+Con el nuevo enfoque de la compra pública se quiere acercar la innovación al mercado y hacer que el sector público se convierta en cliente y beneficiario de soluciones sostenibles e innovadoras más ajustadas a sus necesidades.
 
-However this is not just a theory; there are good examples in sectors such as infrastructure and health where we are starting to see the objective results of applying this new procurement method, in which the public sector’s capacity for demand is the essential instrument for developing new markets and satisfying increasingly demanding and complex social needs.
+Pero no hablamos solo de teoría, sino que existen buenos ejemplos en sectores como las infraestructuras y la sanidad, en los que se empieza a disponer de resultados objetivos de la aplicación de esta nueva manera de comprar, en los que la capacidad de demanda del sector público está siendo el instrumento esencial para desarrollar nuevos mercados y satisfacer las necesidades sociales cada vez más exigentes y complejas.
 
+== Qué papel tendrá Barcelona?
 
-== What role will Barcelona play?
+En 2014 Barcelona fue nombrada Capital Europea de la Innovación.
+Este mismo año, la Unión Europea aprobó las nuevas Directivas de contratación pública.
+Desde Europa se nos pide que compremos soluciones innovadoras para resolver retos que, sin las últimas tecnologías e investigaciones, no encontrarían una respuesta eficaz a nuestros problemas sociales y ambientales del siglo XXI.
 
-In 2014 Barcelona was named the European Capital of Innovation.
-That same year, the European Union passed the new public procurement Directives.
-Europe is asking us to purchase innovative solutions to solve challenges that wouldn’t have an effective solution to our social and environmental issues in the 21st century without cutting edge technologies and research.
+TIP: La investigación y la innovación, incluidas la innovación ecológica y la innovación social, se encuentran entre los motores principales del crecimiento futuro y ocupan un lugar central en la estrategia Europa
 
-TIP: Research and innovation, including ecological and social innovation, are among the main drivers of future growth and are a central part of the Europe 2020 strategy.
+Sin embargo, la visión de la innovación de la Comisión Europea se entiende como un proceso de desarrollo lineal que parte de la idea, pasando por diferentes estadios de maduración apoyados en centros tecnológicos hasta llegar al mercado.
 
-However, the European Commission’s vision of innovation is a linear process that starts with an idea, moves through different stages of maturity supported by technological centres, until finally reaching the market.
+Otras voces se alzan a Europa con visiones más amplías observando que el nuevo enfoque de la compra pública con visión estratégica de las administraciones genera innovación por sí misma.
+La innovación no se encuentra necesariamente como resultado final de un proceso de investigación desde la idea, sino que surge de manera más amplia desde el conjunto de actores, que, traccionados por la resolución de los retos planteados desde la Administración (también denominada _demanda sofisticada_), generan innovación.
+Es toda la sociedad la que crea innovación en el proceso de buscar soluciones a los retos planteados.
+Barcelona ve la innovación como un fin en sí mismo y, al mismo tiempo, como un potenciador de soluciones más sociales y más ambientales.
 
-Other voices are bringing a broader vision to Europe, noting that the new approach to public procurement with strategic vision from the administrations generates innovation in and of itself.
-Innovation is not necessarily the end result of a research project that starts with an idea, but rather can arise in a broader sense from all the players who, attracted by the opportunity to solve the challenges posed by the Administration (also called sophisticated demand), generate innovation.
-Society as a whole creates innovation in the process of looking for solutions to the challenges posed.
-Barcelona sees innovation as an end in itself and, at the same time, as a way to develop more social and environmental solutions.
+El consistorio quiere aprovechar sus conocimientos y los existentes en el mercado para ayudar a resolver los retos de ciudad con nuevas soluciones.
+Esto requiere nuevas habilidades para las personas encargadas de gestionar el presupuesto público, nuevas habilidades en el personal técnico municipal, nuevos mecanismos legales de compra, nuevas metodologías más ágiles en el desarrollo de soluciones para el ciudadano.
+Y también nuevas maneras de explicar al mercado y a la ciudadanía cuáles son los retos de la ciudad y su ciudadanía, facilitando la investigación y desarrollo compartido y colaborativo de soluciones.
 
-The City Council would like to take advantage of its knowledge and that of the market so as to help solve the city’s challenges with new solutions.
-This requires new skills for the people in charge of managing the public budget, new skills for technical municipal personnel, new legal procurement mechanisms and new, more agile methodologies in developing solutions for citizens.
-It also requires new ways of explaining the challenges of the city and its citizens to the market and residents, thus facilitating shared, collaborative research and development for solutions.
+Hay que poner la innovación al servicio de las personas y del bien común.
+El sector público se convierte en un promotor de la empresa innovadora, innovando él mismo en su manera de relacionarse con el mercado y en sus procedimientos de compra.
 
-Innovation must be used to serve the people and the common good.
-The public sector becomes a promoter of innovative enterprise, innovating itself in terms of how it relates with the market and its procurement procedures.
+El peso del criterio precio imperante hasta ahora tiene que pasar a un segundo lugar, y mediante la programación, comunicación en el mercado de las futuras licitaciones, acontecimientos y diálogos con el mercado, se tienen que diseñar fórmulas que permitan premiar la inversión en R+D+i por parte de las pymes cuando esté destinada a la creación de crecimiento y empleo de calidad, o bien a proteger nuestros valores sociales y ambientales. Generaremos, así, una confianza del mercado con el Ayuntamiento generador de valor y comprador, creando una masa crítica local en el sector público y privado que aprende a comprar, vender y sobretodo colaborar de una manera diferente, promoviendo soluciones innovadoras para el bien común.
 
-The importance of price, which until now has been dominant, must become secondary.
-Through planning, communication in the market of future invitations to tender, events, and dialogue with the market, new formulas must be designed that reward investment in Research, Development and Innovation by SMEs when that investment is aimed at creating growth and employment, or at protecting our social and environmental values.
-Thus, we will ensure the market has confidence in a City Council that generates value and is a buyer, creating a local critical mass in the public and private sector that learns to purchase, sell and, above all, collaborate in a different way, promoting innovative solutions for the common good.
+TIP: Barcelona apuesta por la innovación en un sentido amplio, y ha adoptado utilizar su potencial de compra para estimular la innovación dirigida a resolver los retos de la vida en la ciudad y a amplificar el impacto de sus políticas sociales y ambientales.
 
-TIP: Barcelona is committed to innovation in the broader sense, and has decided to use its procurement potential to stimulate innovation that is aimed at solving the challenges of life in the city and to extend the impact of its social and environmental policies.
+== Podemos promover la innovación en las compras regulares?
 
-== Can we promote innovation in regular procurements?
-
-The answer is yes, by including the option for variations and measures that encourage innovation in contracts and by modifying the procurement process (planning, prior consultations, etc.).
+La respuesta es sí, introduciendo en los tratos la posibilidad de variantes o medidas que fomenten la innovación y modificando el proceso que	de compra (planificación, consultas previas...).
 
 [TIP]
 ====
-* Barcelona proposes a broad definition of promoting innovation in its strategy.
+* Barcelona propone una definición amplia de promoción de la innovación en su estrategia.
 
-* It sees public procurement for innovation (PPI) as public procurement which makes use of the innovative solutions (products, technologies, processes) that arise from the procurement process to promote a greater impact on sustainable and inclusive growth in society.
+* Entiende la compra pública para la innovación (CPI) como la compra pública que aprovecha las soluciones innovadoras (productos, tecnologías, procesos) que surgen en el proceso de compra para fomentar un impacto mayor en el crecimiento sostenible e integrador de la sociedad.
 
-* Barcelona also encourages the inclusion of innovation in its regular procurements, with the same goals.
+* Barcelona también promueve, con los mismos objetivos, la inclusión de la innovación en sus compras regulares.
 ====
 
-.We already have experience
+.Ya tenemos experiencia
 [TIP]
 ====
-The BCN Open Challenge meant that, for the first time, the City Council itself became the customer and purchaser of innovative solutions, closing the circle of “urban labs” and combining funding and the level of commitment of public procurement in the programme to solve challenges.
-However, the BCN Open Challenge was also established with the desire to reach any individual, professional, company, or group that had an applicable innovative idea, regardless of their nature or experience, thereby ensuring opportunities for everyone with a capacity to innovate.
+El BCN Open Challenge hizo que el mismo Ayuntamiento se convirtiera en cliente y comprador de soluciones innovadoras, por primera vez, cerrando el círculo de los ‘urban labs’ y sumando la financiación y el vector de compromiso de contratación pública en el programa de resolución de retos.
+Pero el BCN Open Challenge también nació con la voluntad de llegar a cualquier persona, profesional, empresa o colectivo que dispusiera de una idea innovadora aplicable, independientemente de su naturaleza o experiencia, asegurando así oportunidades para todo el mundo con capacidad de innovar.
 
-For this reason, the nature of the companies chosen was very diverse.
-This is a particular point of pride for us, as the winners included both already-formed small and medium enterprises as well as start-ups created expressly to participate in this call for proposals, a temporary joint venture, and even a technological centre, which demonstrates the capacity of this programme to promote new, innovative business forms and collaboration among businesses.
+Es por este motivo que la naturaleza de las empresas seleccionadas es muy diversa, cosa que nos satisface especialmente, ya que tenemos como ganadoras a pequeñas y medianas empresas ya constituidas, pero también a nuevas empresas creadas expresamente para presentarse a este llamamiento, una unión temporal de empresas (UTE) e incluso un centro tecnológico, lo que demuestra la capacidad de este programa 3 para fomentar nuevas formas empresariales innovadoras y la colaboración entre ellas.
 
 _http://www.barcelonactiva.cat/barcelonactiva/es/novedades-y-prensa/novetats/2014/05/09/noticia112879.jsp_
 ====
+//enllaç trencat
 
-== Who is this guide for?
+== Para quién es esta guía?
 
-This guide is:
+Esta guía es:
 
-* *For everyone who works at Barcelona City Council, heads of areas and municipal bodies, individuals responsible for public procurement and technical municipal personnel.*
-* *For the private sector, companies and entities that supply or provide services to the City Council, whether now or in the future.*
-* *For citizens, as transparency in all strategic public procurement and innovation will be the common theme to all of our initiatives.*
+* *Para el conjunto de personas que trabajan en el Ayuntamiento de Barcelona, responsables de área y órganos municipales, personas encargadas de compra pública y personal técnico municipal.*
+* *Para el sector privado, empresas y entidades  proveedoras del Ayuntamiento, presentes y futuras.*
+* *Para la ciudadanía, ya que la transparencia en toda la contratación pública estratégica y la innovación serán el hilo conductor de todas las iniciativas.*
 
-The guide invites all those who read it to view innovation as an essential element that is inseparable from and strengthens sustainable procurement, as is set out in the Mayoral Decree on sustainable public procurement (S1/D/2017-1271 of 24 April).
-Article one of this Decree establishes the desire to boost social, environmental and innovation measures.
-The decree establishes a guarantee for the labour, social, and citizen’s rights of the people who execute the public contract and of the recipients of said contract, and boosts actions for a circular economy and improving the economic activity of small and medium enterprises.
+TLa guía orienta a quien la lee a considerar la innovación como elemento fundamental indisociable y potenciador de las compras sostenibles, tal como se recoge en la Ley de Contratos del Sector Público y en el Decreto de Alcaldía de contratación pública sostenible (S1/D/2017-1271 de 24 de abril), en el cual se establece, en su primer artículo, la voluntad de impulsar medidas sociales, ambientales y de innovación.
+El decreto promueve la garantía de los derechos laborales, sociales y ciudadanos de las personas que ejecuten el contrato público y de las personas destinatarias del mismo, e impulsa acciones para la economía circular y la mejora de la actividad económica de las pequeñas y medianas empresas.
 
-.Article 6. Innovation
+.Artículo 6. La innovación
 [TIP]
 ====
-6.1. Article 2.1.22 of Directive 24/2014 on public procurement defines innovation as “the implementation of a new or significantly improved product, service or process, including but not limited to production, building or construction processes, a new marketing method, or a new organisational method in business practices, workplace organisation or external relations inter alia with the purpose of helping to solve societal challenges or to support the Europe 2020 strategy for smart, sustainable and inclusive growth...”.
+*6.1. La directiva 24/2014, de contratación pública, define en su artículo 2.1.22 la innovación como “la introducción de un producto, servicio o proceso nuevo o significativamente mejorado, que incluye, aunque no se limita a ellos, los procesos de producción, edificación o construcción, un nuevo método de comercialización o un nuevo método de organización de prácticas empresariales, la organización del puesto de trabajo o las relaciones exteriores, entre otros, con el objetivo de ayudar a resolver desafíos de la sociedad o de apoyar la Estrategia Europa 2020 para un crecimiento inteligente, sostenible e integrador...”.*
 
-6.2. Barcelona City Council will drive public procurement processes for innovation with the aim of promoting research and the development of ideas and new technologies that will assist its work for citizens when said ideas and technologies are not available in the market.
+*6.2. El Ayuntamiento de Barcelona impulsará procesos de compra pública de innovación con el fin de promover la investigación, el desarrollo de ideas y nuevas tecnologías que permitan la realización de sus actividades a favor de la ciudadanía cuando estas no estén disponibles en el mercado.*
 
-6.3. In general, when procuring works, goods and services, measures to strengthen innovation will be included through the establishment of functional technical specifications, award criteria that promote improvements articulated as innovation proposals or any other measure which promotes innovation related to developing economic, social and environmental sustainability.
+*6.3. En la adquisición de obras, bienes y servicios se incorporarán, de manera generalizada, medidas de potenciación de la innovación a partir de la fijación de prescripciones técnicas de carácter funcional, criterios de adjudicación que potencien las mejoras articuladas como propuestas de innovación o cualquier otra medida que favorezca una innovación relacionada con el desarrollo de la sostenibilidad económica, social y ambiental.*
 
-_Mayoral Decree on sustainable public procurement (S1/D/2017-1271 of 24 April)_
+_Decreto de Alcaldía de contratación pública sostenible (S1/D/2017-1271 de 24 de abril)_
 ====
