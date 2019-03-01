@@ -5,176 +5,179 @@ include::{partialsdir}/README.adoc[tag=metadata]
 
 = Casos prácticos
 
-== The international European SPEA project
+== El proyecto europeo internacional SPEA
 
-image::spea.jpeg[SPEA logo,width=624,height=245]
-An early experience for Barcelona City Council leading a PPI project is from 2012 for the European SPEA projectfootnote:[_http://www.speaproject.eu/rcs_gene/extra/SPEA_brochure.pdf_], Smart Procurement European Alliance.
+image::spea-{lang}.jpeg[SPEA logo,width=624,height=245]
+Una primera experiencia del Ayuntamiento de Barcelona liderando un proyecto CPI la encontramos el año 2012 en el proyecto europeo SPEA projectfootnote:[_http://www.speaproject.eu/rcs_gene/extra/SPEA_brochure.pdf_], _Smart Procurement European Alliance_.
 
-*THE CHALLENGE*
+//Revisar imatge
 
-The challenge of the project was to promote and strengthen public procurement in the field of energy efficiency for municipal buildings in the partner cities, promoting innovative solutions for public services to improve their quality and efficiency, and boosting opportunities for SMEs to participate in their public procurement.
+*El reto*
 
-*THE PROJECT’S OBJECTIVES INCLUDED*
+El reto del proyecto era fomentar y potenciar la contratación pública en el ámbito de la eficiencia energética en los edificios municipales de las ciudades socias, promoviendo soluciones innovadoras de los servicios públicos para mejorar su calidad y eficiencia, y fomentando oportunidades a las pyme para participar en su contratación pública.
 
-Develop the methodology for the participation of all key players in an innovative public procurement process.
-Perform an analysis in terms of technologies and real requirements, followed by an analysis of needs, as well as activities aimed at increasing the participation of SMEs in the process ending in the purchase of an innovative solution.
+*Los objetivos del proyecto incluían:*
 
-* Exchange of knowledge among the public bodies that participate in the procurement of innovative solutions in the field of energy efficiency and renewable energy.
+Desarrollar la metodología para la participación de todos los actores clave en el desarrollo de un proceso de contratación pública innovadora.
+Hacer un análisis en términos de tecnologías y requerimientos reales, seguido de un análisis de las necesidades, así como las actividades encaminadas a aumentar la participación de las PYME en el proceso acabando en la compra de la solución innovadora.
 
-* Identify the groups of purchasing and providing entities.
+* Intercambio de conocimientos entre los organismos públicos que participan en la compra de soluciones innovadoras en el ámbito de la eficiencia energética y las energías renovables.
 
-* Create supply and demand capacities (purchasing entities and companies), as well as create groups of purchasing entities dedicated to preparing for the procurement of innovative solutions.
+* Identificación de los grupos de entidades compradoras y proveedoras.
 
-* Design and execute a procurement process for these new solutions, improving the capacity of (public) procurement authorities and SMEs with regard to the procurement of innovation.
-Encourage cooperation with other essential players to implement innovative procurement at local and European level.
+* Creación de capacidades sobre la demanda y la oferta (entidades compradoras y empresas), así como creación de grupos de entidades compradoras dedicadas a preparar la adquisición de soluciones innovadoras.
 
-* Formulate recommendations for the EU with regard to organisational barriers to a joint/coordinated procurement process.
-Share the procurement results with the players in charge of creating market policy.
+* Diseño y ejecución de un proceso de adquisición de estas nuevas soluciones, mejorando la capacidad de los órganos de contratación (públicos), así como de las pyme en relación con la contratación de innovaciones.
+Fomentar la cooperación con otros actores esenciales para la implementación de una contratación innovadora, a nivel local y europeo.
 
-* Create a critical mass of purchasing entities that can overcome the fragmentation of public demand in Europe through joint and coordinated procurement of energy efficiency solutions based on the experiences of the three cities coordinating the project.
+* Formular recomendaciones a la UE en relación con las barreras para la organización de un proceso de adquisición conjunta/coordinada.
+Dar a conocer los resultados de contratación entre los actores encargados de formular políticas de mercado.
 
-.The cities
-TIP: The project consists of a consortium of three cities: Barcelona (project leader), Birmingham and Eindhoven.
+* Crear una masa crítica de entidades compradoras que supere la fragmentación de la demanda pública europea, a través de la adquisición conjunta y coordinada de soluciones de eficiencia energética, basada en la implementación de las experiencias de las tres ciudades que coordinan el proyecto.
 
-*THE BARCELONA CITY COUNCIL SOLUTION*
+.Las ciudades
+[TIP]
+El proyecto está formado por un consorcio de tres ciudades: Barcelona (líder del proyecto), Birmingham y Eindhoven.
 
-In the case of Barcelona City Council, an innovative project was chosen for energy monitoring in libraries and data analysis, which was applied to a total of 10 libraries in a pilot programme.
+*La solución en el ayuntamiento de barcelona*
 
-A market consultation was carried out, and the General-Services Directorate, the Directorate of Logistics and Maintenance, the Energy Agency and Barcelona Activa joined forces and worked together.
-This enriched the process, as the vision of the purchasing entities was broadened.
+En el caso del Ayuntamiento de Barcelona, se optó por un proyecto innovador para la monitorización energética de las bibliotecas, y análisis de datos, aplicado a un total de diez bibliotecas que actuarían como pilotos.
 
-A PIN (Preliminary Information Notice) was carried out, in which about 100 companies offered submissions, and which was used to prepare an “energy efficiency solutions bank” and a list of innovative solutions that were likely to be of use.
+Se llevó a cabo una consulta en el mercado, unieron fuerzas y trabajaron conjuntamente la Dirección de Servicios Generales, la Dirección de Logística y Mantenimiento, la Agencia de Energía y Barcelona Activa.
+Eso enriqueció el proceso al ampliar la visión de las entidades compradoras.
 
-After a phase exploring the project’s technical and financial requirements, a tender for projects was launched in which the companies could use the solutions bank.
-An international panel of judges assessed the proposals and chose three finalists, with whom a negotiation process was opened in the format of round-table discussions.
-The contract award committee proposed the winning entity and the contract was awarded in June 2015 for a four-year project.
-As of 2016, the solution had been implemented in 10 libraries.
-Once the suitability of the proposal has been assessed, in the near future we are planning to scale the solution to other city libraries.
+Se hizo un PIN (preliminary information notice), en el cual se presentaron unas cien empresas y con el que se preparó un “banco de soluciones de eficiencia energética” y se elaboró una lista de soluciones innovadoras susceptible de poder ser utilizada.
 
-This project is acting as the basis for the challenge that the City Council is currently posing within the framework of PPI projects funded under the ERDF RIS3cat programme.
-In this challenge, the City Council is considering the maintenance of all municipal buildings, not just in terms of one building’s efficiency, but rather from a global perspective of all of these buildings.
+Después de una fase de exploración de los requisitos técnicos y financieros del proyecto, se lanzó un concurso de proyectos en el cual las empresas podrían utilizar el banco de soluciones, y un jurado internacional valoró las propuestas y escogió las tres finalistas, con las cuales se abrió un proceso de negociación en formato de mesas redondas de discusión.
+La mesa de contratación propuso a la entidad ganadora y se adjudicó el contrato en junio de 2015 para un proyecto de cuatro años.
+El año 2016 se ha implementado la solución en diez bibliotecas, y una vez evaluada la idoneidad de la propuesta, en un futuro próximo se pretende escalar la solución a otras bibliotecas de la ciudad.
 
-== The city of Ghent: cleaning services
+Este proyecto está siendo base para el reto que se está planteando actualmente el Ayuntamiento en el marco de proyectos CPI financiados bajo el programa FEDER RIS3cat.
+En este reto, el Ayuntamiento está teniendo en cuenta el mantenimiento de todos los edificios municipales no solo en términos de eficiencia de un solo edificio, sino con visión global de todo el conjunto de estos edificios.
+
+== La ciudad de Gante: servicios de limpieza
 
 image::image2.jpeg[Ghent sight,width=612,height=215]
 
-*THE CHALLENGE*
+*El reto*
 
-The Department of Cleaning and Services of Ghent City Council (Belgium) is in charge of cleaning the city’s 340 municipal facilities, nurseries, police stations, fire stations, schools and administrative offices.
-In its new contract, Ghent City Council requested an increase in market capacity to provide environmentally sustainable and socially responsible cleaning services.
-It also wanted to introduce probiotic cleaning products, which are designed to have a lower impact on the environment and human health.
-Due to the lack of independent studies establishing the effectiveness and benefits of these products, it considered a test period to be necessary.
+El departamento de limpieza y servicios del Ayuntamiento de Gante (Bélgica) tiene las competencias de limpieza de las 340 instalaciones municipales, guarderías, edificios de policía y de servicios de prevención y extinción de incendios, colegios y edificios administrativos.
+El Ayuntamiento de Gante pedía, en el nuevo contrato, aumentar la capacidad del mercado para la prestación de servicios de limpieza ambientalmente sostenibles y socialmente responsables.
+También quería introducir productos de limpieza probióticos, en principio con menos impacto para el medio ambiente y en la salud humana.
+Debido a la falta de estudios independientes que establecieran la eficacia y beneficios de estos productos, se consideró necesario un periodo de prueba.
 
-*MARKET CONSULTATION*
+*Consulta de mercado*
 
-The city carried out a market consultation to identify the companies interested in participating in this test period.
-The aim of the test was to compare probiotic cleaning products to traditional products.
+Se llevó a cabo una consulta del mercado para identificar a las empresas interesadas en participar en esta prueba.
+El objetivo de la prueba era comparar productos de limpieza probióticos con productos tradicionales.
 
-The City Council tried to involve the largest number of companies possible.
-This was an important point of comparison, as substantial differences between the results from different participants would mean that further research was necessary.
-An external quality control company was included to guarantee objectivity.
+El Ayuntamiento intentó involucrar al máximo número posible de empresas.
+Eso era importante como factor de contraste, ya que la existencia de diferencias sustanciales entre los resultados de diferentes participantes significaría que era necesaria investigación complementaria.
+Se incorporó a una empresa externa de control de calidad para garantizar la objetividad.
 
-Four companies participated in the pilot programme over two months.
-Lab tests were developed to measure the levels of fungus and bacteria with regard to the baseline measurements in each location.
-The individuals who use the cleaning products were actively involved.
+Cuatro empresas participaron en la prueba piloto a lo largo de dos meses.
+Se desarrollaron pruebas de laboratorio para medir los niveles de hongos y bacterias respecto de las mediciones de partida en cada ubicación.
+Se implicó activamente a las personas usuarias de los productos de limpieza.
 
-In general, the professional cleaning personnel were satisfied with the products.
-In general, it was concluded that the products were just as effective as traditional products.
-Some users noted beneficial effects to their skin.
-Positive comments were also received on the smell and ease of use of the products.
+En general, el personal profesional de la limpieza quedó satisfecho con los productos.
+En general, se concluyó que los productos eran tan efectivos como los tradicionales.
+Algunas de las personas usuarias notaron efectos beneficiosos en la piel.
+También se recibieron comentarios positivos sobre olor y facilidad de uso de los productos.
 
-*PROCUREMENT*
+*Contratación*
 
-The invitation to tender was published in March 2013 through an open procedure.
-Five companies submitted bids.
-The contract was divided into three batches, which were awarded to two different cleaning companies.
-The bidding companies responded to the needs of the purchasing authority, and some went even further, offering innovative products with independent sustainability certifications.
-The contract was awarded to the most economically advantageous offer, with 10% of the points assigned to environmental performance.
+Se publicó la convocatoria en marzo de 2013 mediante procedimiento abierto.
+Se presentaron cinco empresas licitadoras.
+Se dividió el contrato en tres lotes, que fueron adjudicados a dos empresas de limpieza diferentes.
+Las empresas licitadoras respondieron a las necesidades de la autoridad contratante, y algunas incluso fueron más allá, ofreciendo productos innovadores con certificación independiente de sostenibilidad.
+El contrato se adjudicó a la oferta económicamente más ventajosa, con un 10% de los puntos asignados al rendimiento medioambiental.
 
-The contract also included a requirement regarding social economy companies, and the specifications stated that some activities such as sweeping school playgrounds and weeding had to be carried out by these types of companies.
+El contrato incluía también un requisito relativo a las empresas de economía social, y establecía en el pliego que algunas actividades como barrer los patios escolares y limpiar las malas hierbas tenían que desarrollarlas este tipo de empresas.
 
-The risks related to the project were real and significant, as the success of the products depended on a variety of factors, such as location, type of mess, the materials and the way in which the professional cleaning personnel applied the products.
-Probiotic cleaning products are used differently than traditional products and they require cleaning professionals to adopt new work habits.
-The contract promotes the use of probiotic products, but the awardee company is free to choose its products, a fact which leaves the service provider enough space to propose other innovative solutions that fall within the City Council’s objectives.
+Los riesgos relacionados con el proyecto eran reales y significativos, ya que el éxito de los productos dependía de muchos y variados factores, como la ubicación, el tipo de suciedad, los materiales y la manera en que el personal profesional de la limpieza aplicara los productos.
+Los productos de limpieza probióticos se utilizan de manera diferente a los productos tradicionales y requieren que los y las profesionales adopten nuevos hábitos de trabajo.
+
+El contrato promueve el uso de productos probióticos, pero la empresa adjudicataria es libre de escoger sus productos, hecho que deja espacio suficiente a la prestación para que proponga otras soluciones innovadoras que entren dentro de los objetivos del Ayuntamiento.
 
 |===
-|*“Innovative procurement was a way to improve the quality of life of the people involved in providing our services, while at the same time achieving greater added value.*
-*The public sector can also support innovative companies, providing them with a platform for their products”.* -
-_Tamara Bruning, Ghent City Council_
+|*La compra de innovación fue una manera de mejorar la calidad de vida de las personas implicadas en la prestación de nuestros servicios, y al mismo tiempo conseguimos un valor añadido mayor.*
+*El sector público puede apoyar también a las empresas innovadoras, facilitándoles una plataforma para sus productos.”* -
+_Tamara Bruning,_
+_Ayuntamiento de Gante_ -
 |===
 
-== The city of Detmold: concrete to reduce air pollution
+== La ciudad de Detmold: hormigón para reducir la contaminación del aire
 
-image::image3.jpeg[Detmold photo,width=623,height=247]
+image::image3.jpeg[Detmold foto,width=623,height=247]
 
-*THE CHALLENGE*
+*El reto*
 
-The city of Detmold and its busy central bus station is used by 2.3 million passengers each year.
-With the aim of improving the flow of traffic and accessibility, about 800 buses pass through the station on business days, and the station is used by a large number of school-aged children.
-To carry out the renovation, the city’s department of public works identified the potential to reduce air pollution in the area by using photocatalytic concrete on the pavements and road surfaces.
+La ciudad de Detmold y su concurrida estación central de autobuses es utilizada por 2,3 millones de pasajeros y pasajeras cada año.
+Con el fin de mejorar el flujo de tráfico y la accesibilidad, unos 800 autobuses pasan por allí los días laborables, y la estación es utilizada por un gran número de niños en edad escolar.
+El departamento de obras e inmuebles de la ciudad identificó, para llevar a cabo la renovación, el potencial de reducción de la contaminación del aire en la zona mediante la aplicación de hormigón fotocatalítico en las aceras y superficies de los pavimentos.
 
-*PROJECT DEVELOPMENT*
+*Desarrollo del proyecto*
 
-After an in-depth study, a cross-departmental planning group was formed which included traffic planning managers, concrete technicians, geological engineers, the university, faculty, the audit department, disability officers and political representatives.
-The planning group also held conversations with the city’s bus company, Stadtverkehr Detmold GmbH (SVD).
+Después de un examen a fondo, se formó un grupo transversal de planificación, incluyendo responsables de la planificación de tráfico, tecnólogos y tecnólogas de hormigón, ingenieros e ingenieras geológicos, la universidad, profesorado, auditoría, agentes para la discapacidad y representantes políticos.
+El grupo de planificación también mantuvo conversaciones con la compañía de autobuses propiedad de la ciudad, la Stadtverkehr Detmold GmbH (SVD).
 
-The German Federal Environmental Foundation (DBU) supported the project through the Department of Civil Engineering of the University of East Westphalia-Lippe.
-The university researched concrete with photocatalytic technology for a year and also performed a scientific follow-up test.
-Additional help was also received from the Westphalia-Lippe transport association and the North Rhine-Westphalia Urban Development Fund.
-Cooperation for the project worked smoothly, despite the fact that the total time required was longer than a traditional project.
+La Fundación Alemana Federal de Medio Ambiente (DBU) apoyó el proyecto a través del Departamento de Ingeniería Civil de la Universidad de East Westfalia-Lippe.
+La universidad investigó el pavimento con tecnología fotocatalítica durante un año y también lo hizo en la prueba científica de seguimiento.
+Se recibió también ayuda adicional de la asociación de transporte de Westfalia-Lippe y del Fondo de Desarrollo Urbano de Renania del Norte-Westfalia.
+La cooperación en el proyecto funcionó bien, a pesar de que el tiempo total requerido sea más largo que un proyecto tradicional.
 
-Project planning began in January 2011 and the invitations to tender were launched in March 2012.
-The contract was awarded in 2012 and ended in August 2013.
+La planificación del proyecto se inició en enero de 2011 y las licitaciones se pusieron en marcha en marzo de 2012.
+El contrato se adjudicó en 2012 y finalizó en agosto de 2013.
 
-*MARKET CONSULTATION*
+*Consulta en el mercado*
 
-Several manufacturers were asked to send brochures and information on their photo-catalytic concrete with non-pollutant capacity.
-They were invited separately to a round of discussions with the project’s group to talk about solutions and potential applications to meet Detmold’s needs.
-The broad range of conditions and materials that affect concrete require a case-by-case approach to ensure the most suitable application of the technology.
-Around three months were required to obtain the information, expert opinions, and communication required on the installation of this innovative product.
-The contribution of the engineering school was particularly valuable during this phase.
-The technical risks were assessed with regard to what it had published in research reports and the manufacturer specifications.
-Visits were carried out to the production facilities and the approaches of the different manufacturers were compared.
-A sustainability analysis was carried out in accordance with the expected life span of at least 50 years.
-The results were presented to the planning group to see which techniques were the most suitable for the project.
-Political approval was given, keeping in mind the additional estimated costs associated with the use of photocatalytic concrete.
+Se pidió a varias empresas productoras que facilitaran y enviaran folletos e información de su hormigón fotocatalítico con capacidad descontaminante.
+Se las invitó a una ronda por separado con el grupo del proyecto para discutir sus soluciones y potenciales aplicaciones para satisfacer las necesidades de Detmold.
+La amplia gama de condiciones y materiales que afectan al hormigón requiere un enfoque caso por caso para garantizar la aplicación más adecuada de la tecnología.
+Se necesitaron alrededor de tres meses para obtener la información, las opiniones expertas y la comunicación sobre la instalación del producto innovador.
+La entrada de la universidad de ingeniería fue particularmente valiosa durante esta fase.
+Los riesgos técnicos se evaluaron con referencia a lo que había publicado en informes de investigación y las especificaciones de la empresa fabricante.
+Se efectuaron visitas a las instalaciones de producción y se hizo una comparación del enfoque de las diferentes empresas productoras.
+Se llevó a cabo un análisis de sostenibilidad de acuerdo con la vida útil esperada de al menos cincuenta años.
+Los resultados se presentaron al grupo de planificación para ver cuáles eran las técnicas más adecuadas para el proyecto.
+Se dio la aprobación política, teniendo en cuenta los costes adicionales proyectados para el uso de hormigón fotocatalítico.
 
-*PROCUREMENT PROCEDURE*
+*Procedimiento de compra*
 
-An open procedure was used and six offers were received from contractors.
-The specifications were formulated in neutral terms so that different production entities could provide the material; the Detmold internal audit services were very involved to ensure the transparency of the process.
-Based on the information received during the market consultation, the documents for the invitation to tender specified a TiO2 content between 3% and 5%.
-There were follow-up questions to the companies that submitted bids to see if they could really meet the criteria.
-Some companies presented solutions with conventional concrete; these solutions were 3.6% cheaper on average.
-A test surface was established to determine the best way to work with the material on site.
-The samples were evaluated as part of the tender and contract award process.
+Se utilizó un procedimiento abierto y se recibieron seis ofertas de empresas contratistas.
+Los requisitos del pliego de condiciones se formularon en términos neutros para que diversas entidades productoras pudieran suministrar el material —los servicios auditores internos de Detmold estaban muy involucrados para asegurar la transparencia del proceso.
+Sobre la base de la información recibida de la consulta en el mercado, se especificó en los documentos de licitación un contenido de TiO2 de entre el 3% y el 5%.
+Hubo preguntas de seguimiento a quienes presentaron oferta para ver si realmente podían cumplir los criterios.
+Algunas empresas presentaron soluciones con hormigón convencional; estas fueron un 3,6% más baratas de media.
+Se estableció una superficie de prueba para determinar la mejor manera de trabajar con el material '_in situ_'.
+Las muestras fueron evaluadas como aparte del proceso de licitación y adjudicación del contrato.
 
-*RESULT AND OTHER APPLICATIONS*
+*Resultado y otras apliaciones*
 
-The awardee company offered 5% TiO2 content in its concrete.
+La empresa adjudicataria ofreció un contenido de TiO2 al 5% en su hormigón.
 
-“Based on the daily average of 800 buses in the station, an annual reduction of nitric oxide emissions of up to 40% is expected”, said Thomas Lammering, assistant to the head of the public works department.
-The additional cost of using photocatalytic concrete was relatively low, and added 90,000 euros within a total project cost of 2.8 million euros.
-The station design included accessibility for people with pushchairs or people with reduced mobility who use wheelchairs, and it also has guide systems for people with visual impairments.
+“Sobre la base de la media diaria de 800 autobuses en la estación, se espera una reducción de las emisiones anuales de óxidos de nitrógeno de hasta un 40%”, dijo Thomas Lammering, el adjunto del jefe del departamento de construcción y edificación.
+El coste adicional de utilizar el hormigón fotocatalítico era relativamente bajo, y ascendía a 90.000 euros dentro de un coste total del proyecto de 2,8 millones de euros.
+El diseño de la estación incluye la accesibilidad para personas que vayan con carritos de niños o que tengan la movilidad reducida y vayan con sillas de ruedas, y también tiene sistemas de guía para personas con discapacidades visuales.
 
-By participating in the photocatalytic materials process, the companies involved also benefited.
-They increased their competence and competitiveness in the application of innovative construction materials, as well as their knowledge of materials science and process engineering.
-A growing number of concrete suppliers in Europe and internationally are capable of supplying photocatalytic concrete to satisfy the needs of public and private construction projects.
+Al participar en el proceso de materiales fotocatalíticos, las empresas involucradas también se beneficiaron.
+Aumentaron su competencia y competitividad en la aplicación de materiales innovadores en la construcción, así como su conocimiento de la ciencia de los materiales y la ingeniería de procesos.
+Un número creciente de empresas proveedoras de hormigón en Europa y en ámbito internacional son capaces de suministrar hormigón fotocatalítico para satisfacer las necesidades de proyectos de construcción públicos y privados.
 
-== Generalitat [national government] of Catalonia: sustainable paved surfaces
+== Generalitat de Catalunya: pavimentos sostenibles
 
 image::image4.jpeg[Road,width=620,height=227]
 
-*THE CHALLENGE*
+*El reto*
 
-The Directorate General (DG) of Mobility Infrastructure of the Generalitat of Catalonia wants to make the sectors involved in the design, production, construction and maintenance of road surfaces in Catalonia more competitive by introducing new methods and procedures that will make them more economically and environmentally sustainable, and which will contribute new added value to their basic functions of road safety.
+La Dirección General (DG) de Infraestructuras de Movilidad de la Generalitat de Catalunya quiere hacer más competitivos los sectores implicados en el diseño, la producción, la construcción y el mantenimiento de los firmes de carreteras en Cataluña, mediante la introducción de nuevos métodos y procedimientos que los hagan más sostenibles en el terreno económico y ambiental, y que aporten nuevos valores añadidos a su funcionalidad básica de seguridad vial.
 
-*MARKET CONSULTATION*
+*Consulta en el mercado*
 
-In order to come to a complete understanding of the subsequent invitation to tender, the Generalitat facilitated prior information on the tender process and its needs with the aim of achieving the broadest possible participation of the interested parties, understanding the technical characteristics and quality of the solutions proposed by the market and, finally, enabling the interested players to formulate comments and suggestions.
+Con el fin de llegar a una definición completa de la posterior licitación, la Generalitat informó previamente sobre el proceso de licitación y de sus necesidades, con el fin de conseguir la más amplia participación de las partes interesadas, conocer las características técnicas y la calidad de las soluciones propuestas por el mercado y finalmente permitir a los actores interesados formular comentarios y sugerencias.
 
-The DG of Mobility Infrastructure of the Generalitat of Catalonia also stated that the consultation was not binding for contractual purposes.
+La DG de Infraestructuras de Movilidad de la Generalitat de Catalunya también puso de manifiesto que la consulta no era vinculante a efectos contractuales.
 
-*PROCUREMENT*
+*Contratación*
 
-At the time this guide was written, the DG of Infrastructure was in the process of drafting the specifications for the invitation to tender.
+En estos momentos de redacción de la guía, la DG de Infraestructuras se encuentra en fase de elaboración de los pliegos que tienen que regir la licitación.

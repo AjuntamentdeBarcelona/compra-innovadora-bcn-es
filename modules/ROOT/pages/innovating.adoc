@@ -7,7 +7,7 @@ include::{partialsdir}/README.adoc[tag=metadata]
 
 == Antecedentes
 
-Desde Europa (Directiva 2014/24/ UE) se pro-mueve la contratación pública estratégica, la que asocia el concepto de eficiencia en el gasto público con la promoción de objetivos sociales comunes europeos fijados en la comunicación de la Comisión Europea, Europa 2020, Una estrategia para un crecimiento sostenible, inteligente e Integrador.
+Desde Europa (Directiva 2014/24/ UE) se promueve la contratación pública estratégica, la que asocia el concepto de eficiencia en el gasto público con la promoción de objetivos sociales comunes europeos fijados en la comunicación de la Comisión Europea, Europa 2020, Una estrategia para un crecimiento sostenible, inteligente e Integrador.
 
 En esta línea, el último mes de abril, el Ayuntamiento de Barcelona aprobó un decreto de alcaldía de contratación pública sostenible (S1/D/2017-1271, 24 de abril), que manifestaba que “El Ayuntamiento de Barcelona impulsa la contratación pública sostenible que integra, en la causa y el objeto del contrato público municipal, medidas sociales, ambientales, éticas y de innovación, garantizando los derechos laborales, sociales y ciudadanos de las personas que ejecuten el contrato público y de las personas destinatarias o usuarias del mismo, que impulsen una economía local circular y sostenible y que promuevan la actividad económica de las medianas, pequeñas y microempresas locales y, singularmente, de las empresas sociales “.
 
@@ -26,7 +26,7 @@ Se trata de utilizar el dinero público para comprar lo que necesitamos, intenta
 Este nuevo enfoque de las compras públicas se postula como una herramienta fundamental del Ayuntamiento para obtener soluciones que se ajusten mucho más a las demandas reales de la sociedad y para ayudar a las empresas a ser más competitivas.
 Queremos estimular la creación de nuevos mercados locales, nuevos productos, nuevos métodos de producción o nuevas maneras de organización o suministro y prestación de servicios.
 
-¿Y cómo lo haremos? La CPI empieza, en la práctica, con una definición abierta de retos y necesidades a solucionar y ofrece en el mercado la posibilidad de explicar cómo resolver el problema, ya sea con soluciones existentes o no, pero que dispongan de una buena relación calidad-precio y tengan en cuenta el ciclo de vida en el cálculo y la determinación de los costes.
+¿Y cómo lo haremos? La CPI empieza, en la práctica, con una definición abierta de retos y necesidades a solucionar y ofrece en el mercado la posibilidad de explicar cómo resolver el problema, ya sea con soluciones existentes o no, pero que dispongan de una buena relación calidad precio y tengan en cuenta el ciclo de vida en el cálculo y la determinación de los costes.
 Esta práctica posiciona al Ayuntamiento con un rol más allá del comprador i pasa a ser socio en la resolución del reto identificado.
 
 Tenemos que pasar de una compra pública muy detallada en los pliegos técnicos y a menudo adjudicada con criterios del mejor precio, a una compra que trabaja por definición de retos y soluciones sostenibles innovadoras, a menudo con la implicación de multiplicidad de actores.

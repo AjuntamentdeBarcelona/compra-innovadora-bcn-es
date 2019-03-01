@@ -187,85 +187,83 @@ Se llevó a cabo un análisis de la sostenibilidad basándose en la estimación 
 Se remitieron los resultados al equipo de planificación para que determinase qué técnicas eran las más apropiadas pera el proyecto.
 Y se pidió la aprobación política pera el conjunto del trabajo teniendo en cuenta los costes adicionales estimados asociados al úso de hormigón fotocatalítico.
 
-*INTELLECTUAL PROPERTY RIGHTS*
+*Los derechos de propiedad intelectual*
 
-PPI implies investing in making new ideas a reality, both on the part of the contracting authority as well as the part of the company providing the product or service.
-Everyone will want to maximise their investment, and this is generally done through intellectual and industrial property rights (IPR).
-The City Council must develop a strategy for IPR which considers the foreseeable uses of the product or service it is buying, so as to obtain the most relevant benefits from the innovation.
+La CPI implica invertir en hacer realidad nuevas ideas, tanto por parte de la autoridad con-tratante como por la de la empresa proveedora del producto o servicio.
+Todas querrán maximizar su inversión, y eso se hace habitualmente en forma de derechos de propiedad intelectual e industrial (DPI).
+El Ayuntamiento tiene que desarrollar una estrategia sobre DPI que tenga en cuenta los usos previsibles del producto o servicio que está comprando, a efectos de obtener los beneficios de la innovación más relevantes para ella.
 
-For example, if a new design for recycling containers is developed within a waste management contract, what is better for the administration: to purchase the design or pay for a usage license?
-And in the case of rights to the design for the vehicles that collect these containers?
-When answering these questions, we must consider issues such as the Administration’s future capacity to change provider, or to what extent this design could be licensed to another potential group of users of the service.
+Por ejemplo, si se desarrolla un nuevo diseño de contenedores de reciclaje dentro de un contrato de gestión de residuos, ¿qué es mejor para la administración: comprarlo o pagar una licencia de uso?
+¿Y en el caso de los derechos sobre el diseño de los vehículos para la recogida de estos contenedores?
+Al responder a estas preguntas, hay que tener en cuenta cuestiones como la capacidad futura de la Administración para cambiar de empresa proveedora, o hasta qué punto se podría dar licencia de este diseño a otro público usuario potencial del servicio.
 
-In some cases, to achieve these objectives, it will be sufficient to exchange information without an effective transfer of intellectual and/or industrial property rights.
+En algunos casos, para alcanzar estos objetivos será suficiente compartir información sin una transferencia efectiva de derechos de propiedad intelectual y/o industrial.
 
-*FUNDING*
+*Financiación*
 
-We must have funding available for the initial procurement and to make provisions for the scaling up the solution if we find it to be satisfactory.
+Tenemos que disponer de financiación para la compra inicial y hacer las previsiones para el escalado de la solución si la encontramos satisfactoria.
 
-*JOINT PROCUREMENT PROCESSES*
+*Compras conjuntas*
 
-This new model for contractual relations allows us to promote broader and more dynamic procurement procedures, enabling us to even consider joint and aggregate demand procurement processes with other administrations.
-We will have to analyse case by case whether the needs detected are ideally suited to a joint PPI, and whether it makes sense to establish a framework agreement so that other administrations can use the final results.
+Este nuevo modelo de relación contractual nos permite fomentar procedimientos de contratación más amplios y dinámicos, posibilitándonos plantear, incluso, procesos de compras conjuntas y de demanda agregada con otras administraciones.
+Se tendrá que analizar caso por caso si las necesidades detectadas son adecuadas para una CPI conjunta, y si tiene o no sentido establecer un acuerdo marco de manera que otras administraciones puedan utilizar los resultados finales.
 
-*DRAFTING SPECIFICATIONS. MEASURES FOR INNOVATION*
+*La redacción de los pliegos de condiciones. Medidas para la innovación*
 
-In general, when drafting the tender specifications for procuring works, goods and services, measures to strengthen innovation will be included through the establishing functional technical specifications, with award criteria that promote improvements articulated as innovation proposals or any other measure which promotes innovation related to developing economic, social and environmental sustainability.
+En la redacción de los pliegos de licitación para la adquisición de obras, bienes y servicios se incorporarán, de manera generalizada, medidas de potenciación de la innovación a partir de la fijación de prescripciones técnicas de carácter funcional, con criterios de adjudicación que potencien las mejoras articuladas como propuestas de innovación o cualquier otra medida que favorezca una innovación relacionada con el desarrollo de la sostenibilidad económica, social y ambiental.
 
-How are we going to do this?
+¿Cómo podemos hacerlo?
 
-* *By establishing technical terms* that are aligned with achieving established objectives.
-If we establish the terms as mandatory, this means that the market can respond to them without further preparations.
-However, these technical terms could restrict the market because they are impossible to complete before the dead-line for submitting proposals; alternatively, we could give the market time to prepare: once again, we highlight the planning of public procurement.
-We can also indicate “optional” technical terms, or terms which involve voluntary improvements, which do not put the result of the tender in danger.
-We could also convey our functional objectives as technical terms that do not state specifically what we want, but rather describe the characteristics of what we want.
+* *Estableciendo prescripciones técnicas* que vayan en el camino de alcanzar los objetivos definidos.
+Si las configuramos como obligatorias, querrá decir que el mercado las puede responder sin más preparativos.
+Pero puede ser una prescripción técnica que restrinja el mercado porque es de materialización imposible en el tiempo de un periodo de presentación de proposiciones o, alternativamente, podemos dar tiempo para que el mercado se prepare: una vez más, destacamos la programación en la contratación pública.
+También podemos indicar prescripciones técnicas “opcionales” o que representen mejoras voluntarias, que no hacen peligrar el resultado del concurso.
+O podemos trasladar nuestros objetivos funcionales como prescripciones técnicas que no detallan como tiene que ser concretamente lo que queremos, sino cómo es lo que queremos.
 
-* *By establishing technical competence criteria* which set out the technical means and quality processes within companies that indicate that they will be capable of handling offers with elements of innovation.
+* *Estableciendo criterios de solvencia técnica* que indiquen los medios técnicos y los procesos de calidad en los circuitos internos de las empresas que apunten que serán capaces de abordar ofertas con elementos de innovación.
 
-* *By setting award criteria* that value innovative solutions, new ideas that offer a solution to the requirements of the technical terms, which now become the award criteria themselves.
-This is the time to score and highlight the companies that make an effort to go beyond their ordinary offers and demonstrate that they have studied our challenges and which provide technological, organisational, or procedural solutions, or any combination thereof, and who show a commitment to satisfying those results.
+* *Fijando criterios de adjudicación* que valoren las soluciones innovadoras, las nuevas ideas que den respuesta a los requerimientos de las prescripciones técnicas que ahora trasladaremos al mismo criterio de adjudicación: es el momento de puntuar y destacar las empresas que hacen el esfuerzo de superar sus ofertas rutinarias y demuestran que han estudiado nuestros retos y aportan soluciones: tecnológicas, organizativas, procedimentales o combinadas todas o algunas de estas, pero que suponen un compromiso de la empresa licitadora a satisfacer estos resultados.
 
-* *By making the price conditional on the inclusion of innovation.*
-Including innovative results can be an economic incentive in the contract execution phase, such that a part of the price will be paid depending on whether the company achieves results that involve the inclusion of innovative functional objectives.
+* *Condicionando el precio a la incorporación de la innovación.*
+Incorporar los resultados innovadores puede ser un incentivo económico en fase de ejecución del contrato, de manera que se pagará una parte del precio en función de la consecución de unos resultados que comprometen la incorporación de unos objetivos funcionales innovadores.
 
-* *By strengthening specialised outsourcing* for the parts of the contract that require the participation of specialised enterprising companies.
+* Potenciando la *subcontratación especializada* por partes del objeto del contrato que requieren la participación de empresas emprendedoras especializadas.
 
-If what we need is not only innovative changes in an ordinary contract, but rather the creation of a true alliance of companies in order to develop a new service, this is now an “innovation partnership”.
-The project is created as a public/private collaboration to design, produce and acquire new services, goods or activities which do not exist on the market.
-If this type of association is going to be attempted, we recommend first getting in touch with the procurement coordination department, who will help you design the project.
+Si lo que necesitamos no es tan solo una evolución renovadora de un contrato ordinario sino que se cree una auténtica alianza con empresas para desarrollar una nueva prestación, ya se trata ahora de constituir una “asociación para la innovación”.
+El proyecto se formaliza como una colaboración público-privada para diseñar, producir y adquirir nuevos servicios, bienes o actividades inexistentes en el mercado.
+Si se pretende abordar, es mejor que primeramente se contacte con la dirección de coordinación de contratación que ayudarán a diseñar el proyecto.
 
-The assessment of offers must be objective, grounded and reasonable.
-Therefore, we must design the assessment criteria for awarding contracts, and we must explain them clearly, identifying the results required in the most understandable, specific form possible.
+La valoración de las ofertas tiene que ser objetiva, motivada y razonable.
+Por lo tanto, tenemos que diseñar los criterios de valoración, cuando se trate de criterios de adjudicación, y los tenemos que explicar claramente identificando los resultados requeridos de la manera más comprensible y concreta posible.
 
-Innovation is a commitment to sustainable development in support of efficiency in providing public services to citizens.
-However, they cannot be imaginative ideas that are impossible to implement.
-We must drive the market and guide it towards our needs, not diminish our needs because of the short-term limitations or profit objectives of certain companies.
+La innovación es una apuesta por el desarrollo sostenible en ayuda de la eficiencia en la prestación de los servicios públicos a la ciudadanía.
+Pero no pueden ser las ocurrencias imaginativas imposibles de hacer.
+Hay que traccionar el mercado y orientarlo hacia nuestras necesidades, no domesticar nuestras necesidades para las limitaciones u objetivos de rendimientos de beneficios a corto plazo de determinadas empresas.
 
-== PILLAR IV: monitor and assess
+== PILAR IV: seguir y evaluar
 
-*CONTRACT EXECUTION*
+*La ejecución del contrato*
 
-The contract execution phase is essential.
-Here, all of the prior procedures carried out and good preparatory work will become evident.
+La fase de ejecución del contrato se vuelve esencial.
+En ella se pondrán de manifiesto todos los procedimientos previos realizados y la buena tarea preparatoria.
 
-However, we must understand that in these procedures, procurement does not end with the award of contract.
-Instead, we must establish a system to monitor and oversee execution by the contractor company and to manage collaboration between the City Council and the contractor to correctly implement the contract.
+Ahora bien, tenemos que entender firmemente que en estos procedimientos la contratación no acaba con la adjudicación, sino que tendremos que establecer un sistema de monitorización y control de la ejecución por parte de la empresa contratista, y gestionar la colaboración del Ayuntamiento con el contratista para la corrección del desarrollo del contrato.
 
-*CONTRACT EFFICIENCY*
+*Eficiencia del contrato*
 
-A useful indicator to assess results is the efficiency of the contract.
-We must bear in mind the performance quotient in our contracts between the performance obtained as compared to the price we pay, and whether this quotient is being met or not.
+Un indicador útil para evaluar resultados es la eficiencia del contrato.
+Tenemos que tener en cuenta en nuestros contratos el cociente de rendimiento entre las prestaciones obtenidas en relación con el precio que pagamos y si este se está cumpliendo o no.
 
-There will also be periodic assessments of results for elements considered to be substantial, such as:
+También se efectuarán evaluaciones periódicas de resultados, en las partes que se considerarán sustanciales, entre otras:
 
-* Whether the innovation satisfies the need posed at the beginning, while respecting established social and environmental criteria.
-* What the added value of the innovation is in terms of security, functionality, costs and social efficiency.
-* Can the innovation be implemented on a large scale?
+* Si la innovación satisface la necesidad formulada al principio, respetando los criterios sociales y ambientales establecidos.
+* Cuál es el valor añadido de la innovación en seguridad, funcionalidad y costes, y en eficiencia social.
+* ¿Es la innovación adecuada para su implementación a gran escala?
 
-For longer and more established terms, the City Council should also assess the application of the PPI policy strategy.
-We must verify if the objectives are being followed and achieved.
-For example, we can evaluate if there is enough room for innovation in the contracts and how barriers to innovation are being removed.
+En periodos más largos y establecidos, es conveniente que el Ayuntamiento evalúe la aplicación de la estrategia de política de CPI.
+Hay que verificar si los objetivos se siguen y consiguen.
+Por ejemplo, se evalúa si hay suficiente espacio para innovaciones en los contratos y cómo se están eliminando los obstáculos a la innovación.
 
-*SCALING THE SOLUTION*
+*Escalado de la solución*
 
-Once the solution has been applied, it is important to carry out an objective assessment of the results obtained, the viability of scaling the solution and increasing the expected impact, as well as its sustainability.
+Es importante, una vez aplicada la solución, hacer una valoración objetiva de los resultados obtenidos y la viabilidad del escalado de la solución y el incremento del impacto previsto, así como su sostenibilidad.
