@@ -53,11 +53,11 @@ Algunas áreas priorizadas son las TIC, la economía circular o la salud.
 * Asesoramiento en todas las fases
 ====
 
-*Dialogar con el mercado y el tejido empre-sarial.*
+*Dialogar con el mercado y el tejido empresarial.*
 El marco legal actual recoge la posibilidad de iniciar un diálogo entre los poderes adjudicadores y el mercado, previo al inicio del expediente de contratación.
 El Ayuntamiento habilitará los canales adecuados, principalmente digitales para establecer el diálogo.
 El objetivo es conocer y hacer prospección de las soluciones que ofrece el mercado para cubrir las necesidades objeto del contrato antes de la publicación del pliego definitivo.
-Eso permite una mejor y más pro-funda comprensión de las necesidades de la Administración, la promoción e incorpora-ción de las últimas innovaciones existentes en el mercado y una colaboración mayor entre las partes.
+Eso permite una mejor y más profunda comprensión de las necesidades de la Administración, la promoción e incorporación de las últimas innovaciones existentes en el mercado y una colaboración mayor entre las partes.
 
 .Gestión estratégica a medio y largo plazo
 [TIP]
@@ -82,7 +82,7 @@ La información y los datos se han convertido en uno de los bienes más valiosos
 
 Las ciudades como Barcelona, con iniciativas como el Plan Barcelona Ciudad Digital 2017-2020, se enfrentan a la necesidad de transformar sus maneras de hacer y buscar nuevas estrategias basadas en la tecnología y la innovación que permitan aprovechar el impulso y el desarrollo de esta nueva economía y que comporten al mismo tiempo grandes beneficios sociales y un crecimiento económico más equitativo y sostenible.
 
-Las medidas que habrá que observar y que impulsarán el nuevo modelo de contratación sostenible para la innovación se tendrán que estructurar en ejes de actuación como la ética de los datos o la soberanía tecnológica basada en _software libre_, datos abiertos y metodologías _agile_, que se desarrollarán en detalle en la futura guía de compra de tecnología del Ayuntamiento, actualmente en redacción.
+Las medidas que habrá que observar y que impulsarán el nuevo modelo de contratación sostenible para la innovación se tendrán que estructurar en ejes de actuación como la ética de los datos o la soberanía tecnológica basada en _software libre_, datos abiertos y metodologías _ágiles_, que se desarrollarán en detalle en la futura guía de compra de tecnología del Ayuntamiento, actualmente en redacción.
 
 *Habilitar fondos de financiación.*
 El Ayuntamiento dispone de varios fondos para la financiación de sus proyectos CPI.

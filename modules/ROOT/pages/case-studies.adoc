@@ -7,7 +7,7 @@ include::{partialsdir}/README.adoc[tag=metadata]
 
 == El proyecto europeo internacional SPEA
 
-image::spea-{lang}.jpeg[SPEA logo,width=624,height=245]
+image::spea.jpeg[SPEA logo,width=624,height=245]
 Una primera experiencia del Ayuntamiento de Barcelona liderando un proyecto CPI la encontramos el año 2012 en el proyecto europeo SPEA projectfootnote:[_http://www.speaproject.eu/rcs_gene/extra/SPEA_brochure.pdf_], _Smart Procurement European Alliance_.
 
 //Revisar imatge
@@ -57,7 +57,7 @@ En este reto, el Ayuntamiento está teniendo en cuenta el mantenimiento de todos
 
 == La ciudad de Gante: servicios de limpieza
 
-image::image2.jpeg[Ghent sight,width=612,height=215]
+image::image2.jpeg[Gante sight,width=612,height=215]
 
 *El reto*
 
@@ -152,7 +152,7 @@ Algunas empresas presentaron soluciones con hormigón convencional; estas fueron
 Se estableció una superficie de prueba para determinar la mejor manera de trabajar con el material '_in situ_'.
 Las muestras fueron evaluadas como aparte del proceso de licitación y adjudicación del contrato.
 
-*Resultado y otras apliaciones*
+*Resultado y otras aplicaciones*
 
 La empresa adjudicataria ofreció un contenido de TiO2 al 5% en su hormigón.
 
