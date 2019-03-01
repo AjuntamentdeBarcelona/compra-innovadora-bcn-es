@@ -12,6 +12,7 @@ xref:innovating.adoc[Innovar desde la compra en el Ayuntamiento de Barcelona]
 xref:strategy.adoc[La estrategia de compra para la innovación]
 xref:principles.adoc[Cómo hacerlo realidad. Principios y procedimientos]
 xref:case-studies.adoc[Casos prácticos]
+xref:procedures.adoc[Los procedimientos]
 
 * xref:glossary.adoc[_Glosario de guías_]
 * xref:index.adoc[_Información de los autores y otros documentos_]

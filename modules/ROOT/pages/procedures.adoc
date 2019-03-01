@@ -1,78 +1,78 @@
-= Procedures
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
-== Regular procedures driving procurement for innovation
+= Los procedimientos
 
-Within regular procurement procedures, the 2014 public procurement regulation and the law of public sector contracts offers multiple “pro-innovation” measures.
+== Los procedimientos regulares motores de la compra para la innovación
 
-Of note is the option to carry out preliminary market consultations.
-The ability to take environmental and social factors into consideration during different phases of the procurement process and the use of life-cycle cost calculations have a more solid legal foundation.
+Dentro de la compra regular, la normativa de contratación pública de 2014 y la Ley de Contratos del Sector Público, ofrecen múltiples medios “propicios a la innovación”.
 
-Innovative solutions can be promoted which can be awarded more points given the economic and sustainability benefits they will have in the long term.
-Similarly, the application of functional or results-based specifications give companies more room to offer innovative proposals.
+Destaca la posibilidad de llevar a cabo consultas preliminares del mercado.
+La capacidad de tener en cuenta consideraciones ambientales y sociales en diferentes fases del proceso de contratación y el uso de cálculos del coste del ciclo de vida tienen una base jurídica más sólida.
 
-Furthermore, some modifications have been made to the selection procedures and documentation requirements which aim to ensure better access for SMEs (many of which are very innovative) to public procurement procedures.
+Se pueden promover soluciones innovadoras a las cuales podemos dar más puntos viendo los beneficios económicos y de sostenibilidad que implican a largo plazo.
+De la misma manera, la aplicación de especificaciones funcionales o basadas en los resultados dan más margen para las propuestas innovadoras.
 
-New cross-border joint procurement rules will allow purchasing entities from different member states to make joint purchases.
-The aggregation of demand from different member states will encourage the distribution of the risks and benefits of innovative projects and will group demand.
-Finally, and perhaps most importantly: the application of new European regulations offers us the opportunity to assess public procurement from a strategic perspective and to find the best way to achieve innovation and other objectives.
+Además, algunas modificaciones de los procedimientos de selección y los requisitos de documentación tienen como objetivo velar por la mejora del acceso de las pymes (muchas de las cuales son muy innovadoras) a los procedimientos de contratación pública.
 
-On top of all of this, we are also increasing support for electronic systems which contribute to advances towards electronic procurement so as to promote innovation in public procurement.
+Las nuevas normas de contratación conjunta transfronteriza permitirán que entidades compradoras de diversos estados miembros hagan compras conjuntas.
+La agregación de la demanda de diversos estados miembros puede animar el reparto de riesgos y beneficios de los proyectos innovadores y el agrupamiento de la demanda.
+Y, finalmente, lo que es quizás lo más importante: la aplicación de las nuevas normas europeas nos ofrece la oportunidad de evaluar la contratación pública desde un punto de vista estratégico y de averiguar la mejor manera de conseguir la innovación y otros objetivos.
 
-== European directives
+A todo eso añadimos el aumento del apoyo de los sistemas electrónicos que comportan los avances hacia una contratación electrónica para fomentar la innovación en la contratación pública.
 
-Beyond the means to be used in traditional procedures, the most recent amendment to the European directives revised the existing procedures and added some new procedures with the aim of supporting innovation from demand, as we will see below.
+== Las directivas europeas
 
-The scope of the directives includes some procedures that are especially relevant to PPI:
+Más allá de los medios a utilizar en los procedimientos tradicionales, en la última reforma de las directivas europeas, se han revisado los procedimientos ya existentes y se han introducido algunas nuevas con el fin de dar apoyo a la innovación desde la demanda, como vemos a continuación.
 
-*COMPETITIVE DIALOGUE*
+En el ámbito de las directivas, hay procedimientos especialmente relevantes para la CPI:
 
-This procedure has been simplified in the new rules.
-It is normally used in large, complex projects in which the technical specifications cannot be defined in advance.
+*Diálogo competitivo*
 
-For example, when the contract awarding entities are not in a position to define the ideal means for satisfying their needs or assessing the solutions that the market has to offer.
-It can also be used when the needs of the purchasing entity cannot be satisfied without adapting the solutions currently available, or if their needs involve designing or creating innovative solutions.
-And also used when the contract cannot be awarded without prior negotiation due to its complexity, financial or legal structure, or because of the risks associated therewith.
+Este procedimiento se ha simplificado en las nuevas normas.
+Normalmente se utiliza en proyectos grandes y complejos en los cuales no se pueden definir anticipadamente las prescripciones técnicas.
 
-The bidding companies accepted to the dialogue process will submit a descriptive document, and there may be one or several rounds of dialogue.
-General ideas become more specific during this dialogue phase.
-When the purchasing authority closes the dialogue, these companies can submit an offer based on their own solution to the needs defined by the purchasing authority.
-In the competitive dialogue procedure, any economic operator can submit a participation request, but only those operators invited can participate in the dialogue.
+Por ejemplo, cuándo los poderes adjudicadores no están en condiciones de definir los medios ideales para satisfacer sus necesidades o evaluar las soluciones que puede ofrecer el mercado.
+Cuando las necesidades de la autoridad contratante no se puedan satisfacer sin adaptar las soluciones actualmente disponibles, o bien las necesidades implican diseño o soluciones innovadoras.
+También cuando el contrato no pueda adjudicarse sin previa negociación por causa de la complejidad, la estructura legal o financiera, o por causa de los riesgos asociados a estas.
 
-*INVITATION TO TENDER PROCEDURE WITH NEGOTIATION*
+Las empresas licitadoras admitidas en el diálogo presentarán un documento descriptivo, y puede haber una o varias rondas de diálogo.
+Las ideas generales se van concretando en esta fase de diálogo.
+Cuando la autoridad cierre el diálogo, podrán presentar una oferta basada en su propia solución para las necesidades que la autoridad contratante ha definido.
+En el procedimiento de diálogo competitivo, cualquier operador económico puede presentar una solicitud de participación, pero solo podrán participar en el diálogo en los operadores invitados.
 
-In this case, the objective is to procure works, services or supplies that include elements of adaptation, design, innovation, or other characteristics which make awarding the contract without prior negotiation unsuitable.
-Unlike in the competitive dialogue method we saw above, here the purchasing authority must specify the characteristics of the goods or services to be procured from the outset.
+*Procedimiento de licitación con negociación*
 
-This method can be used under the same circumstances as those described above for competitive dialogue, i.e., when adaptation, design or innovation are necessary, when the contract cannot be awarded without prior negotiation due to risks or complexity, when the technical specifications cannot be defined with sufficient precision, or when only irregular or unacceptable offers have been submitted during a prior procedure.
-This possibility has been implemented in the 2014 directives and it replaces the negotiated procedure with prior publication.
+El objetivo, en este caso, es la contratación de obras, servicios o suministros que incluyan elementos de adaptación, diseño, innovación u otras características que hagan inadecuada la adjudicación del contrato sin previa negociación.
+Al contrario que en el diálogo competitivo visto anteriormente, aquí es requisito previo que la autoridad contratante especifique desde un primer momento las características de los bienes o servicios a contratar.
 
-In the “invitation to tender procedure with negotiation”, any economic operator can submit a participation request, but only those economic operators who receive an invitation after the information they presented has been assessed may submit an initial bid, which will be the basis for subsequent negotiations.
+Se puede utilizar en las mismas circunstancias, anteriormente descritas, que el diálogo competitivo, por ejemplo, cuando hacen falta adaptación, diseño o innovación, cuando el contrato no pueda ser adjudicado sin previa negociación a causa de riesgos o complejidad, cuando las prescripciones técnicas no pueden ser definidas con la precisión suficiente, o cuando solo se hayan presentado ofertas irregulares o inaceptables en un procedimiento previo.
+Eso se ha introducido en las directivas de 2014, y sustituye el anterior procedimiento negociado con publicidad.
 
-*A NEW PROCEDURE HAS BEEN CREATED: THE INNOVATION PARTNERSHIP*
+En el «procedimiento de licitación con negociación», cualquier operador económico puede presentar una solicitud de participación, pero solo los operadores económicos invitados tras la evaluación de la información proporcionada podrán presentar una oferta inicial, que será la base de las negociaciones posteriores.
 
-This procedure is for cases in which an innovative solution that is not yet available on the market is required.
-The purchasing authority decides to establish an innovation partnership with one or several players who will separately carry out R&D activity with the goal of negotiating a new innovative solution during the tender procedure.
+*Se ha creado un nuevo procedimiento, la asociación para la innovación*
 
-Finally, in specific cases and circumstances, purchasing authorities may award public contracts through a negotiated procedure without publishing prior notification of an invitation to tender.
+Es para los casos en que se requiera una solución innovadora que todavía no está disponible en el mercado.
+El poder adjudicador decide establecer una asociación para la innovación con uno o varios actores, que efectúan por separado actividades de investigación y desarrollo, con la finalidad de negociar una nueva solución innovadora durante el procedimiento de licitación.
 
-== Other
+Finalmente, en casos y circunstancias específicas, los poderes adjudicadores podrán adjudicar contratos públicos mediante *un procedimiento negociado sin publicación previa de un anuncio de licitación.*
 
-Beyond the scope of the directives, there is a procedure that could give rise to public procurements for innovation.
-This is pre-commercial public procurement (PPP), which has historically been the least popular, but has great potential.
-If we need to procure R&D services, including prototype creation phases or initial production tests, this is the best way forward.
+== Otros
 
-PPP can include the procurement of limited prototypes and/or the development of product tests, but it does not include the purchase of large quantities of final solutions in the commercial phase; nor does it need to involve State aid.
-Therefore, the benefit derived from the R&D services purchased will not be solely for the use of the purchasing authority.
+Fuera del ámbito de las directivas hay un procedimiento que puede conducir a una compra pública de innovación.
+Se trata de la contratación precomercial (CPP) y es la menos utilizada hasta ahora, pero tiene un gran potencial.
+Si necesitamos contratar servicios de I+D, incluyendo las fases de creación de prototipos o las primeras pruebas de producción, este es el camino.
 
-Although it is not included in regulations, PPP must be executed in an impartial, open, transparent and competitive manner, so that the R&D services are purchased at market price.
+La CPP puede incluir la contratación de prototipos limitados y/o el desarrollo de pruebas de producto, pero no incluye la compra de grandes cantidades de soluciones finales en fase comercial, y tampoco tiene que constituir ayuda de Estado.
+Por eso, el beneficio que se derive de los servicios de I+D contratados no será exclusivamente para el uso de la autoridad contratante.
 
 .Thalea II
-TIP: THALEA II is the first PPI that is following a PPP in Health-ICT for intensive care units.
-Its participants include the Corporación Sanitaria Parc Taulí of Sabadell.
-It will implement remote sensing and telecare solutions to mitigate the negative impacts of an ageing society and labour force.
-Reflecting on the experience acquired through THALEA’s PPP, this PPI process will acquire and implement a promising innovative technology that will help save more lives and increase patients’ quality of life.
-For further information: _http://www.thalea-pcp.eu/_
+[TIP]
+THALEA II es el primer CPI que sigue un CPP en Health-ICT para unidades de cuidados intensivos.
+Participa, entre otros, la Corporación Sanitaria Parc Taulí de Sabadell.
+Desplegará soluciones de teledetección y teleasistencia para mitigar los impactos negativos del envejecimiento de la sociedad y la mano de obra.
+Haciendo balance de la experiencia adquirida a través del CPP de THALEA, mediante este CPI se adquirirá y desplegará una tecnología innovadora prometedora que ayudará a salvar más vidas y a aumentar la calidad de vida de los y las pacientes.
+Más información: _www.thalea-pcp.eu_
