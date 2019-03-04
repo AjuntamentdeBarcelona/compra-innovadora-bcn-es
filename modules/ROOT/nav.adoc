@@ -7,13 +7,14 @@ include::{partialsdir}/README.adoc[tag=metadata]
 // to see listed in the navigation menu for this document. See
 // https://docs.antora.org/antora/navigation/list-structures/ for more details
 // on the syntax of this file.
+.$$MAIN
+* xref:innovating.adoc[Innovar desde la compra en el Ayuntamiento de Barcelona]
+* xref:strategy.adoc[La estrategia de compra para la innovación]
+* xref:principles.adoc[Cómo hacerlo realidad. Principios y procedimientos]
+*xref:case-studies.adoc[Casos prácticos]
+* xref:procedures.adoc[Los procedimientos]
 
-xref:innovating.adoc[Innovar desde la compra en el Ayuntamiento de Barcelona]
-xref:strategy.adoc[La estrategia de compra para la innovación]
-xref:principles.adoc[Cómo hacerlo realidad. Principios y procedimientos]
-xref:case-studies.adoc[Casos prácticos]
-xref:procedures.adoc[Los procedimientos]
-
+.$$BOTTOM
 * xref:glossary.adoc[_Glosario de guías_]
 * xref:index.adoc[_Información de los autores y otros documentos_]
 * link:{attachmentsdir}/barcelona_{component-name}_{revnumber}.{lang}.pdf[Descargar PDF]

@@ -100,7 +100,7 @@ Esta innovación se puede encontrar de diferentes maneras, añadiendo nuevas tec
 Hay un delicado equilibrio entre el deber de asegurarse que el mercado conoce exactamente cuáles son los requerimientos públicos en una compra y al mismo tiempo dejar espacio suficiente para formas diferentes y nuevas de responder a estos requerimientos.
 Se actuará con iniciativas para las cuales el Ayuntamiento cree que puede tener un papel demostrativo, con prescripciones técnicas funcionales basadas en el rendimiento, o permitiendo variantes, dos maneras interesantes de permitir cierta flexibilidad a las empresas licitadoras a la hora de proponer soluciones.
 
-image::ict-procurement-pag12-{lang}.svg[image, align="center", width=100%]
+image::NewModelForRelations_{lang}.svg[image, align="center", width=100%]
 
 == Las claves del éxito
 
