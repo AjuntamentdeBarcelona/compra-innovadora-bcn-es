@@ -15,6 +15,6 @@ include::{partialsdir}/README.adoc[tag=metadata]
 * xref:procedures.adoc[Los procedimientos]
 
 .$$BOTTOM
-* xref:glossary.adoc[_Glosario de guías_]
-* xref:index.adoc[_Información de los autores y otros documentos_]
+* xref:glossary.adoc[_Glosario_]
+* xref:index.adoc[_Autores y otras informaciones del documento_]
 * link:{attachmentsdir}/barcelona_{component-name}_{revnumber}.{lang}.pdf[Descargar PDF]
