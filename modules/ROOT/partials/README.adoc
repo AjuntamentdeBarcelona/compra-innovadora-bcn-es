@@ -20,7 +20,7 @@
 :uri-public-repo: https://github.com/AjuntamentdeBarcelona/innovative-procurement-bcn-es.git
 //
 // MANDATORY. Exactly the same value you give to key "name" in file antora.yml.
-:component-name: es/innovative-procurement-bcn-es
+:component-name: es/innovative-procurement
 //
 // MANDATORY. Title of the document. In web format, it appears as a heading of
 // level 1. In PDF format, it appears in a title page.
@@ -28,16 +28,15 @@
 //
 // OPTIONAL. Subtitle of the document.
 :_subtitle: Programa de digitalización abierta del Comisionado de Tecnología e Innovación Digital del Ayuntamiento de Barcelona
-
 //
 // MANDATORY. Semi-colon-separated list of names.
-:authors:
+:authors: Francesca Bria, Paco Rodríguez, Malcolm Bain, Joan Batlle, Ana Bastida Vila, Xabier Barandiaran Fernández, Marius Boada Pla, Guillem Marpons, Xavier Roca Vilalta, Xavier Bes Segovia, Josep Carles Collazos, Joan Domènech Bas, Oscar Sanz García, Carlos Echevarría Meseguer, LLuís Girona Frisach, Anna Majó Crespo, Tomás Gea Calza, Javier Ruiz, Gemma Galdon, John Michaelides, Esther Bretschneider
 //
 // OPTIONAL. Semi-colon-separated list of names.
 :_contributors:
 //
 // OPTIONAL. Semi-colon-separated list of names.
-:_reviewers:
+:_reviewers: Ivan Mingueza
 //
 // OPTIONAL. Publication date of the revision. When the default value
 // ("{docdate}") is used, the current date in format YYYY-MM-DD is automatically
@@ -71,7 +70,7 @@
 //
 // DO NOT TOUCH.
 :page-lang: {lang}
-:uri-public-website: {uri-public-website-root}/{lang}/{component-name}/
+:uri-public-website: {uri-public-website-root}/{component-name}/
 // end::metadata[]
 
 = {_title}
